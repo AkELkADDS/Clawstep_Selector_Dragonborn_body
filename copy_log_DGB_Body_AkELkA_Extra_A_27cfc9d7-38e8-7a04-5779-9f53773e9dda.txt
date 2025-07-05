@@ -1,0 +1,522 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+   Sat 07/05/2025 20:15:20.39 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT.lsmg 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_BAKE_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_BAKE_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_BAKE_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\0269a70b-0f3f-ae60-fbea-fff496f80a33.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\123464e8-4abd-ba0e-d913-f5b285af3485.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\156983cb-3f71-3a48-4b84-6ae09c8e92a4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\1a268ce1-8b64-9957-b677-5c095ee858bd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\2f03dead-6333-3805-bd6a-bfa6700bb7bb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\693a5d1e-9538-6045-eb03-930f3e351009.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\9aa6009f-995f-5040-e88b-e737b2156e07.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\9d609ac8-4942-d1b3-4f5e-4aa1ad44f8ab.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\cfd1bccf-42f3-5948-9ef3-6ede68b7aa6b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\d7792b19-9392-541a-3afb-414ec199896b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\0152cdd4-4123-3155-000a-e5c0e02af61e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\0de61114-d39e-472f-89a3-35f27435327b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\19e13862-c013-89e0-dfdf-d0548497d99b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\45efd1df-8bf8-96c7-d834-a5f9f5c34fe3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\5340423d-abb6-3af5-29fe-9156a885c4c0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\590922fc-3230-42cb-b65f-c5dea4b183c7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\6c322f33-5289-4324-93e3-9deffad600d7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\93fd4bc1-7aed-bda2-03bf-d465dddac7a7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\99fa3012-e5bc-fe22-a16c-ec01846e2f7f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\a20ac955-3c9d-1a08-5d76-6cf15a50bc65.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\a6b733bf-b5b2-9511-a2ab-402a06996edb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\b5cdd1e4-ac52-e9b2-6f73-03dad3787106.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\b949f894-e97a-4f0b-bef5-1d07476f2caf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\c2710caa-0c6e-456f-a3b7-40bc019a4fa8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\c7ed55c5-0450-4ca1-ba7f-940b4dd2ce69.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\cb00949f-9a70-4dcb-24d6-d6c906faa035.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\f5d7456f-3402-c973-c9bf-fa1ee1f9837a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_1.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_3.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_3.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_C_EL_2_MechLeg_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_C_EL_2_MechLeg_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_1.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Textures\DGB_F_NKD_Body_C_EL_2_MechLeg_1_BM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Textures\DGB_F_NKD_Body_C_EL_2_MechLeg_1_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Textures\DGB_F_NKD_Body_C_EL_2_MechLeg_1_PM.DDS 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda: 89 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_3.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_C_EL_2_MechLeg_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda: 6 
+ 
+[LOG] Total files found across all folders: 103 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda to Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[DEBUG] Using destination: Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 8:15:23 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     702	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\meta.lsx100%  
+	    New File  		   6.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\thumbnail.png  7%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    6.97 m    6.97 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           7318177000 Bytes/sec.
+   Speed :           418749.446 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 8:15:23 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Editor\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda to "Editor\Mods"\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[DEBUG] Using destination: Editor\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 8:15:25 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Editor\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   12857	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		   63170	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT.lsmg100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         8         8         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    74.2 k    74.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            76027000 Bytes/sec.
+   Speed :            4350.299 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 8:15:25 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda to Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[DEBUG] Using destination: Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 8:15:26 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   12591	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\meta.lsx100%  
+	    New File  		   6.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\mod_publish_logo.png  7%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\GUI\metadata.lsf100%  
+	    New File  		    1127	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    6.99 m    6.99 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           349158761 Bytes/sec.
+   Speed :           19979.024 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 8:15:26 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda to Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[DEBUG] Using destination: Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 8:15:28 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    8749	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    4475	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\0269a70b-0f3f-ae60-fbea-fff496f80a33.lsf100%  
+	    New File  		    4475	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\123464e8-4abd-ba0e-d913-f5b285af3485.lsf100%  
+	    New File  		    5713	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\156983cb-3f71-3a48-4b84-6ae09c8e92a4.lsf100%  
+	    New File  		    4473	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\1a268ce1-8b64-9957-b677-5c095ee858bd.lsf100%  
+	    New File  		    8916	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\2f03dead-6333-3805-bd6a-bfa6700bb7bb.lsf100%  
+	    New File  		    4474	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\693a5d1e-9538-6045-eb03-930f3e351009.lsf100%  
+	    New File  		    5714	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\9aa6009f-995f-5040-e88b-e737b2156e07.lsf100%  
+	    New File  		    4475	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\9d609ac8-4942-d1b3-4f5e-4aa1ad44f8ab.lsf100%  
+	    New File  		    7834	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\cfd1bccf-42f3-5948-9ef3-6ede68b7aa6b.lsf100%  
+	    New File  		    4474	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_CharacterVisuals\d7792b19-9392-541a-3afb-414ec199896b.lsf100%  
+	    New File  		   16020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\0152cdd4-4123-3155-000a-e5c0e02af61e.lsf100%  
+	    New File  		    2496	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\0de61114-d39e-472f-89a3-35f27435327b.lsf100%  
+	    New File  		    1649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\19e13862-c013-89e0-dfdf-d0548497d99b.lsf100%  
+	    New File  		    6494	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\45efd1df-8bf8-96c7-d834-a5f9f5c34fe3.lsf100%  
+	    New File  		    2239	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\5340423d-abb6-3af5-29fe-9156a885c4c0.lsf100%  
+	    New File  		    2496	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\590922fc-3230-42cb-b65f-c5dea4b183c7.lsf100%  
+	    New File  		    2496	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\6c322f33-5289-4324-93e3-9deffad600d7.lsf100%  
+	    New File  		    5985	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\93fd4bc1-7aed-bda2-03bf-d465dddac7a7.lsf100%  
+	    New File  		   13546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\99fa3012-e5bc-fe22-a16c-ec01846e2f7f.lsf100%  
+	    New File  		    1649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\a20ac955-3c9d-1a08-5d76-6cf15a50bc65.lsf100%  
+	    New File  		   13549	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\a6b733bf-b5b2-9511-a2ab-402a06996edb.lsf100%  
+	    New File  		   13546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\b5cdd1e4-ac52-e9b2-6f73-03dad3787106.lsf100%  
+	    New File  		    2568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\b949f894-e97a-4f0b-bef5-1d07476f2caf.lsf100%  
+	    New File  		    3056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\c2710caa-0c6e-456f-a3b7-40bc019a4fa8.lsf100%  
+	    New File  		    3294	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\c7ed55c5-0450-4ca1-ba7f-940b4dd2ce69.lsf100%  
+	    New File  		   13549	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\cb00949f-9a70-4dcb-24d6-d6c906faa035.lsf100%  
+	    New File  		    1649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Content\[PAK]_DGB_Body_AkELkA_Extra_A\f5d7456f-3402-c973-c9bf-fa1ee1f9837a.lsf100%  
+	    New File  		   32296	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_1.GR2100%  
+	    New File  		     161	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_1.xml100%  
+	    New File  		  496740	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2.GR2100%  
+	    New File  		     161	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2.xml100%  
+	    New File  		  573324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_3.GR2100%  
+	    New File  		     161	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_3.xml100%  
+	    New File  		  796668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_C_EL_2_MechLeg_R.GR2100%  
+	    New File  		     171	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_C_EL_2_MechLeg_R.xml100%  
+	    New File  		  494232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_1.GR2100%  
+	    New File  		     161	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_1.xml100%  
+	    New File  		  494232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2.GR2100%  
+	    New File  		     161	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2.xml100%  
+	    New File  		  16.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Textures\DGB_F_NKD_Body_C_EL_2_MechLeg_1_BM.DDS100%  
+	    New File  		  16.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Textures\DGB_F_NKD_Body_C_EL_2_MechLeg_1_NM.DDS100%  
+	    New File  		  16.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Textures\DGB_F_NKD_Body_C_EL_2_MechLeg_1_PM.DDS100%  
+	    New File  		   12620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT.lsf100%  
+	    New File  		    7668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEF_DX11.bshd100%  
+	    New File  		   18743	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEF_DX12.bshd100%  
+	    New File  		   18402	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEF_Vulkan.bshd100%  
+	    New File  		    1500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPST_DX11.bshd100%  
+	    New File  		    9500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPST_DX12.bshd100%  
+	    New File  		    3542	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPST_Vulkan.bshd100%  
+	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPS_DX11.bshd100%  
+	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPS_DX12.bshd100%  
+	    New File  		    1718	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEPS_Vulkan.bshd100%  
+	    New File  		    2484	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEP_DX11.bshd100%  
+	    New File  		   12833	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEP_DX12.bshd100%  
+	    New File  		    4976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_DEP_Vulkan.bshd100%  
+	    New File  		     964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_EMI_DX11.bshd100%  
+	    New File  		    8440	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_EMI_DX12.bshd100%  
+	    New File  		    1870	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_EMI_Vulkan.bshd100%  
+	    New File  		   32448	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_FOR_DX11.bshd100%  
+	    New File  		   38580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_FOR_DX12.bshd100%  
+	    New File  		   49156	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_FOR_Vulkan.bshd100%  
+	    New File  		    3344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_VEL_DX11.bshd100%  
+	    New File  		   16717	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_VEL_DX12.bshd100%  
+	    New File  		    7908	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_STI_VEL_Vulkan.bshd100%  
+	    New File  		    5892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_BAKE_DX11.bshd100%  
+	    New File  		   18636	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_BAKE_DX12.bshd100%  
+	    New File  		   18544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_BAKE_Vulkan.bshd100%  
+	    New File  		    8256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEF_DX11.bshd100%  
+	    New File  		   19907	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEF_DX12.bshd100%  
+	    New File  		   20302	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEF_Vulkan.bshd100%  
+	    New File  		    1676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPST_DX11.bshd100%  
+	    New File  		   10249	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPST_DX12.bshd100%  
+	    New File  		    4292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPST_Vulkan.bshd100%  
+	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPS_DX11.bshd100%  
+	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPS_DX12.bshd100%  
+	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEPS_Vulkan.bshd100%  
+	    New File  		    2660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEP_DX11.bshd100%  
+	    New File  		   13830	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEP_DX12.bshd100%  
+	    New File  		    5814	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_DEP_Vulkan.bshd100%  
+	    New File  		    1140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_EMI_DX11.bshd100%  
+	    New File  		    9449	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_EMI_DX12.bshd100%  
+	    New File  		    2708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_EMI_Vulkan.bshd100%  
+	    New File  		   33036	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_FOR_DX11.bshd100%  
+	    New File  		   39720	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_FOR_DX12.bshd100%  
+	    New File  		   51024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_FOR_Vulkan.bshd100%  
+	    New File  		    3608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_VEL_DX11.bshd100%  
+	    New File  		   17454	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_VEL_DX12.bshd100%  
+	    New File  		    9226	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Assets\Materials\Base\Base_VT_ST_VEL_Vulkan.bshd100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        12        12         1         0         0         0
+   Files :        89        89         0         0         0         0
+   Bytes :   51.46 m   51.46 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           620262919 Bytes/sec.
+   Speed :           35491.728 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 8:15:28 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 89 
+[DEBUG] Successfully copied files: 89 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda: 
+      Total files: 89 
+      Copied successfully: 89 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda to "Generated\Public"\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[DEBUG] Using destination: Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, July 5, 2025 8:15:30 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   32296	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_1.GR2100%  
+	    New File  		  496740	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2.GR2100%  
+	    New File  		  622936	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_3.GR2100%  
+	    New File  		  741708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_C_EL_2_MechLeg_R.GR2100%  
+	    New File  		  494232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_1.GR2100%  
+	    New File  		  494232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         6         6         0         0         0         0
+   Bytes :    2.74 m    2.74 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            68622476 Bytes/sec.
+   Speed :            3926.609 MegaBytes/min.
+   Ended : Saturday, July 5, 2025 8:15:30 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 6 
+[DEBUG] Successfully copied files: 6 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda: 
+      Total files: 6 
+      Copied successfully: 6 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 89 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_27cfc9d7-38e8-7a04-5779-9f53773e9dda 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 6 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 103 
+[SUMMARY] Total files successfully copied: 206 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
