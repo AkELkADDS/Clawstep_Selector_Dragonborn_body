@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="200"/>
+    <version major="4" minor="8" revision="0" build="400"/>
     <region id="CharacterCreationAppearanceVisuals">
         <node id="root">
             <children>
@@ -9,7 +9,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd112b0cag0ea7gcc36gad91g8501c0f7faaf" version="1"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="733d50ea-166f-4b6f-a3ba-514d690fdcbe"/>
                     <attribute id="VisualResource" type="guid" value="99911834-d7c2-481e-2eca-202587d6e3a8"/>
                 </node>
@@ -18,7 +18,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3b83d6bdgbed9ge687g1d1fg95594f8cd3aa" version="1"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="1dc950e6-7389-442b-83ef-12c1c0ccb628"/>
                     <attribute id="VisualResource" type="guid" value="b949f894-e97a-4f0b-bef5-1d07476f2caf"/>
                 </node>
@@ -27,7 +27,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h32eeaf22gc0d9g91adgf7f2g90638a186b23" version="1"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="06083805-a726-4e4a-b7fb-de9cafbabe22"/>
                     <attribute id="VisualResource" type="guid" value="c2710caa-0c6e-456f-a3b7-40bc019a4fa8"/>
                 </node>
@@ -102,7 +102,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hcc431b7bg0f11g63a4gfb9agee359ac26fd1" version="1"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="4013ad8f-5ab8-4c9e-b698-04570537a4ba"/>
                     <attribute id="VisualResource" type="guid" value="c7ed55c5-0450-4ca1-ba7f-940b4dd2ce69"/>
                 </node>
