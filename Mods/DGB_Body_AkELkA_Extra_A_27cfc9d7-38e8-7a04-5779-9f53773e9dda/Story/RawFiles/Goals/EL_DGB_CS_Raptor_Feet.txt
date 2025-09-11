@@ -1,0 +1,50 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF 
+    	ChangeAppearanceCompleted(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player,(TAG)EL_DGB_CS_Raptor_Feet_e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7,1)
+THEN
+	    DebugText(_Player, "ChangeAppearance Rule Hit Before AddSpell");
+	    AddSpell(_Player,"Target_EL_DGB_Raptor_Feet_Kick");
+	    AddPassive(_Player,"EL_DGB_CS_Raptor_Feet_Kick_GiantPath");
+	    DebugText(_Player, "ChangeAppearance Rule Hit After AddPassive");
+
+
+IF 
+    	LevelLoaded(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player,(TAG)EL_DGB_CS_Raptor_Feet_e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7,1)
+THEN
+	    AddSpell(_Player,"Target_EL_DGB_Raptor_Feet_Kick");
+	    AddPassive(_Player,"EL_DGB_CS_Raptor_Feet_Kick_GiantPath");
+
+IF 
+    	ChangeAppearanceCompleted(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player,(TAG)EL_DGB_CS_Raptor_Feet_e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7,1)
+THEN
+	    RemoveSpell(_Player,"Target_EL_DGB_Raptor_Feet_Kick");
+
+IF 
+    	LevelLoaded(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player,(TAG)EL_DGB_CS_Raptor_Feet_e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7,1)
+THEN
+	    RemoveSpell(_Player,"Target_EL_DGB_Raptor_Feet_Kick");
+EXITSECTION
+
+ENDEXITSECTION

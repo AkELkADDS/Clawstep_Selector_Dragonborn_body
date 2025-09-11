@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19d">
   <stat_objects>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_312" />
-        <field name="UUID" type="IdTableFieldDefinition" value="733d50ea-166f-4b6f-a3ba-514d690fdcbe" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
-        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd112b0cag0ea7gcc36gad91g8501c0f7faaf" version="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_EL_1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
-        <field name="UUID" type="IdTableFieldDefinition" value="1dc950e6-7389-442b-83ef-12c1c0ccb628" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
-        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="b949f894-e97a-4f0b-bef5-1d07476f2caf" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3b83d6bdgbed9ge687g1d1fg95594f8cd3aa" version="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
-        <field name="UUID" type="IdTableFieldDefinition" value="06083805-a726-4e4a-b7fb-de9cafbabe22" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
-        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="c2710caa-0c6e-456f-a3b7-40bc019a4fa8" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h32eeaf22gc0d9g91adgf7f2g90638a186b23" version="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_3" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
         <field name="UUID" type="IdTableFieldDefinition" value="4f63bdbd-c351-4894-bc51-acd2c24e2791" />
@@ -52,7 +13,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h04455115gb1afgb96dgc414g0dfaf093dbaa" version="1" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
         <field name="UUID" type="IdTableFieldDefinition" value="2f6e4421-ada2-4771-87f7-a71420ce6f12" />
@@ -65,7 +26,7 @@
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="4f63bdbd-c351-4894-bc51-acd2c24e2791" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
         <field name="UUID" type="IdTableFieldDefinition" value="b6c45b9d-1bdc-48e8-a517-6c87f4fb1ebd" />
@@ -78,7 +39,7 @@
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="4f63bdbd-c351-4894-bc51-acd2c24e2791" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
         <field name="UUID" type="IdTableFieldDefinition" value="443d6ce4-cc05-4312-8b88-b4cccb5d28b3" />
@@ -110,7 +71,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="d7ab969a-179e-4fd1-a938-9ff587d467b8" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF708090" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
         <field name="UUID" type="IdTableFieldDefinition" value="ec2b245b-9cf1-4f86-834e-7a4ff508496a" />
@@ -123,7 +84,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_C_EL_2_MechLeg_R" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF708090" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
         <field name="UUID" type="IdTableFieldDefinition" value="580920ce-7c30-41ff-8018-5ed293cb672a" />
@@ -138,15 +99,103 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bb6ba70e-1137-4fff-a3f7-36c7679923ef" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_14" />
+        <field name="UUID" type="IdTableFieldDefinition" value="05a9460b-1d2c-4aa3-aa7a-03a810f1b65a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_15" />
+        <field name="UUID" type="IdTableFieldDefinition" value="74a0be45-fee0-46e0-bc4a-239133cca1bb" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_17" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2fb2df2d-b8b3-42ad-a222-c489f939fe19" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_18" />
+        <field name="UUID" type="IdTableFieldDefinition" value="95f58f92-7289-46c2-aecb-4a81c6bc5927" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_19" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2736b9ed-f124-47e8-aae5-41ea19ef008c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_20" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8b4ff70b-6dee-4cdd-8f15-6f1ca0b653c4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
-        <field name="UUID" type="IdTableFieldDefinition" value="4013ad8f-5ab8-4c9e-b698-04570537a4ba" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0fabb091-8d22-4f5f-b49f-bde7873430c7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_12" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5ce44892-068c-424c-b50c-ca20b9c55ed8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bdaafba8-5e97-4ef1-ad8a-ee60a1d64ae5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_16" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ee8752c5-c421-4537-a55e-7d80982c7b5e" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="c2710caa-0c6e-456f-a3b7-40bc019a4fa8" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_1_Clawstep_ORI_NeckCut" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4d729cc3g4ef2gc334g4e39gae13c602d87c" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cf7a62d6-0251-41d9-b7a3-822636b081fd" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="7ed9f37a-5d22-4dbd-8029-ffbc19b608f7" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_NeckCut" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha3c91790gcd94g8ac9g6e24g6e700c15c1f6" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_21" />
+        <field name="UUID" type="IdTableFieldDefinition" value="68df9e0d-edd8-4a4f-aa17-797f1447916c" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="c7ed55c5-0450-4ca1-ba7f-940b4dd2ce69" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcc431b7bg0f11g63a4gfb9agee359ac26fd1" version="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_C_EL_2_MechLeg_R" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_C_EL_2_Clawstep_MechLeg_R_NeckCut" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf5870850g3e4dg2e43g0265geb83130fb4ea" version="1" />
       </fields>
     </stat_object>
   </stat_objects>

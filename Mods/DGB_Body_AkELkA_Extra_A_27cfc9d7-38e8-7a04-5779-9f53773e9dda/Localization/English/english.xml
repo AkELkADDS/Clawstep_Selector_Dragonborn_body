@@ -10,4 +10,43 @@
   <content contentuid="hcc431b7bg0f11g63a4gfb9agee359ac26fd1" version="1">Clawstep NeckCut Mech Leg R</content>
   <content contentuid="h03bdf40cgf372g7c3cg1b4dg36e2f6d8676b" version="1">None</content>
   <content contentuid="h917c3458gce24gc1e5g1c1fg0f3e211654fa" version="1">None</content>
+  <content contentuid="h1e163b99g7ee4ga797g16e1gec787e725ce0" version="1">Clawstep</content>
+  <content contentuid="h120e4cb6g9a88g01bbg22a7gad4420e04774" version="2">CS NeckCut</content>
+  <content contentuid="h1776d4d2gf7a1gfb12g1080g232c3a17f332" version="1">CS Male texture</content>
+  <content contentuid="hcb2fc84fg3166gf0bcg8922gdaaa6188e790" version="1">CS MechLeg</content>
+  <content contentuid="hf05c0b4fg1fc6g4acbg57a8gfabdfee19086" version="1">CS Raptor</content>
+  <content contentuid="h4d729cc3g4ef2gc334g4e39gae13c602d87c" version="1">Clawstep</content>
+  <content contentuid="ha3c91790gcd94g8ac9g6e24g6e700c15c1f6" version="1">CS Raptor</content>
+  <content contentuid="hf5870850g3e4dg2e43g0265geb83130fb4ea" version="1">CS Mech Leg R</content>
+  <content contentuid="he2ac2d24g7fefg1cbdg88bdgd25a42fbd036" version="1">1</content>
+  <content contentuid="h86b5975dg35c7g4962g5b57g1ab7fac9a52e" version="1">2</content>
+  <content contentuid="hb6d4b007gdf69gaa37g62b6g65321d63eb77" version="1">3</content>
+  <content contentuid="hd0c8457agef46gad28g7ef9g6cbeb5673931" version="1">2</content>
+  <content contentuid="h6f946fa8g9957gd944gc1d1g3ec0897144a4" version="1">Boot of the Giants Raptor Kick</content>
+  <content contentuid="h75de1b28g7c02gcffcgfd71g58a46a93dd49" version="1">Try to kick a target away. Your chances depend on your Athletics, and are higher if you're hidden or invisible.</content>
+  <content contentuid="h81a1a13dgb4f0gd74fg02d5g01057416a4b0" version="1">You can kick targets up to twice the weight that &lt;LSTag Type="Spell" Tooltip="Target_Shove"&gt;Shoving&lt;/LSTag&gt; them would allow.</content>
+  <content contentuid="h565dc486g1741gbce1ga158g9be0315c28bb" version="1">Slashing Flourish (Melee)</content>
+  <content contentuid="h5de5c3fdg303cgd764gf3eagcff1b7e6ba0f" version="1">Attack up to [1] enemies at once.</content>
+  <content contentuid="h862c5bacg3734gaadcg5e9fg1e6ec8782d76" version="2">Boot of the Giants Raptor Kick 2</content>
+  <content contentuid="h3f28986ag7581g9d96ge9c7ga8f333d6ff29" version="1">Try to kick a target away. Your chances depend on your Athletics, and are higher if you're hidden or invisible.</content>
+  <content contentuid="h1007416bg5028gac33g3db2ga31dd36cfbda" version="1">You can kick targets up to twice the weight that &lt;LSTag Type="Spell" Tooltip="Target_Shove"&gt;Shoving&lt;/LSTag&gt; them would allow.</content>
+  <content contentuid="hc2e7e5ffg3e40gd34egec0agd8a078258206" version="1">Topple</content>
+  <content contentuid="h798042f9gb12eg1227g71aag25a4f36a64df" version="1">Swipe at a creature to knock it &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="hfc8bcf5bg641fg8579g4054g6541556f1f49" version="3">Slashing Flourish Raptor 2</content>
+  <content contentuid="h1fa621d9g8e2egd097g3667ga91cd60fbd15" version="1">Attack up to [1] enemies at once.</content>
+  <content contentuid="hc3362131g7e80g6863gc0f9g1dacd8da76f2" version="2">Shield Shove 2</content>
+  <content contentuid="hd11d3ad7g39b5ga079g4187g1a481b0b3161" version="1">Shove a target with your shield to push it back.</content>
+  <content contentuid="h021ecdadgb7f4gc6aagd2f9g2b9fbdbfc186" version="2">Charger: Push 2</content>
+  <content contentuid="h12a76674geca2g4c30gd1b7g1e65edc52a19" version="1">Charge forward and Shove the first enemy in your way. Your chances depend on your Athletics, and are higher if you're hidden or invisible.</content>
+  <content contentuid="h49ff2c7eg4421g58f7g166bg2c4a7e0724e4" version="1">The shove distance depends on your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; and the target's weight.</content>
+  <content contentuid="hc62e3f63g9701gaa98gfa8cg07cb7794df66" version="2">Charger: Push 3</content>
+  <content contentuid="ha430dcc0gda22g7d55ge91egaea02b1e4a8d" version="1">Charge forward and Shove the first enemy in your way. Your chances depend on your Athletics, and are higher if you're hidden or invisible.</content>
+  <content contentuid="h5d957a6bgde0eg4398g68f9gbc69d7525bd0" version="1">The shove distance depends on your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; and the target's weight.</content>
+  <content contentuid="hc6d900f2g8618g2e4bga10bgc0e5ce91b308" version="1">%%% EMPTY</content>
+  <content contentuid="h7f7149f2g408eg095bg4b85g2cff628a2473" version="1">%%% EMPTY</content>
+  <content contentuid="h26e8a637gc5b0g822cg237bg015158e2f926" version="1">Boot of the Giants Raptor Kick</content>
+  <content contentuid="h2b3ad6acg148fgb73eg8056g0f881f5ad306" version="1">Try to kick a target away. Your chances depend on your Athletics, and are higher if you're hidden or invisible.</content>
+  <content contentuid="hbe12bafbg3871ge580g9125gaa306da8b89c" version="1">You can kick targets up to twice the weight that &lt;LSTag Type="Spell" Tooltip="Target_Shove"&gt;Shoving&lt;/LSTag&gt; them would allow.</content>
+  <content contentuid="hcc6c2fc7g7a95gd984g18ebg0f566225c6a1" version="1">Raptor Kick</content>
+  <content contentuid="hd9241b68gd79eg6d16g95dcg34a1fe60e288" version="1">Raptor Kick</content>
 </contentList>

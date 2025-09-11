@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="68fca284-15ae-4110-8a1f-2a21b951664a" />
+        <field name="Name" type="NameTableFieldDefinition" value="VampireSpawn_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc6d900f2g8618g2e4bga10bgc0e5ce91b308" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="DynamicAnimationTag" type="GuidObjectTableFieldDefinition" value="aafbe780-d237-416e-9d05-e03070c9dbee" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(VAMPIRE)" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1268d75a-991a-4cde-a1ba-91a60e4df5bf" />
+        <field name="Name" type="NameTableFieldDefinition" value="EL_DGB_CS_Raptor_Feet_Kick_GiantPath" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd9241b68gd79eg6d16g95dcg34a1fe60e288" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="DynamicAnimationTag" type="GuidObjectTableFieldDefinition" value="07234f31-c239-4a57-aeb4-868f3e1a318e" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcc6c2fc7g7a95gd984g18ebg0f566225c6a1" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_BootOfTheGiants" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
