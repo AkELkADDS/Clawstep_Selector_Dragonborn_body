@@ -1,0 +1,46 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF 
+    	ChangeAppearanceCompleted(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player,(TAG)EL_DGB_CS_Sickle_Feet_f0c48ac9-714b-4863-a11a-c2d10f31ddec,1)
+THEN
+	    AddPassive(_Player,"EL_DGB_CS_Sickle_Feet_Kick_GiantPath");
+
+
+IF 
+    	LevelLoaded(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player,(TAG)EL_DGB_CS_Sickle_Feet_f0c48ac9-714b-4863-a11a-c2d10f31ddec,1)
+THEN
+	    AddPassive(_Player,"EL_DGB_CS_Sickle_Feet_Kick_GiantPath");
+
+IF 
+    	ChangeAppearanceCompleted(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player,(TAG)EL_DGB_CS_Sickle_Feet_f0c48ac9-714b-4863-a11a-c2d10f31ddec,1)
+THEN
+	    RemovePassive(_Player,"EL_DGB_CS_Sickle_Feet_Kick_GiantPath");
+
+IF 
+    	LevelLoaded(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player,(TAG)EL_DGB_CS_Sickle_Feet_f0c48ac9-714b-4863-a11a-c2d10f31ddec,1)
+THEN
+	    RemovePassive(_Player,"EL_DGB_CS_Sickle_Feet_Kick_GiantPath");
+EXITSECTION
+
+ENDEXITSECTION

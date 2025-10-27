@@ -1,0 +1,9 @@
+new entry "Shout_EL_DGB_CS_Extra_Speed_Dash"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Dash_BonusAction"
+data "Icon" "Skill_BS_Claw_Dash"
+data "DisplayName" "h3ef3a667gfe7eg6570g98e1g5e0c98f46cb4;1"
+data "Description" "hef10d443g81acgca67g0891g4cb95a2deb5b;1"
+data "SpellFlags" "IgnoreSilence;Stealth;Invisible;NoCameraMove"
+

@@ -16,8 +16,8 @@
   <content contentuid="hcb2fc84fg3166gf0bcg8922gdaaa6188e790" version="1">CS MechLeg</content>
   <content contentuid="hf05c0b4fg1fc6g4acbg57a8gfabdfee19086" version="1">CS Raptor</content>
   <content contentuid="h4d729cc3g4ef2gc334g4e39gae13c602d87c" version="1">Clawstep</content>
-  <content contentuid="ha3c91790gcd94g8ac9g6e24g6e700c15c1f6" version="1">CS Raptor</content>
-  <content contentuid="hf5870850g3e4dg2e43g0265geb83130fb4ea" version="1">CS Mech Leg R</content>
+  <content contentuid="ha3c91790gcd94g8ac9g6e24g6e700c15c1f6" version="5">Raptor - Claw Attack</content>
+  <content contentuid="hf5870850g3e4dg2e43g0265geb83130fb4ea" version="2">Mech Leg R</content>
   <content contentuid="he2ac2d24g7fefg1cbdg88bdgd25a42fbd036" version="1">1</content>
   <content contentuid="h86b5975dg35c7g4962g5b57g1ab7fac9a52e" version="1">2</content>
   <content contentuid="hb6d4b007gdf69gaa37g62b6g65321d63eb77" version="1">3</content>
@@ -44,9 +44,743 @@
   <content contentuid="h5d957a6bgde0eg4398g68f9gbc69d7525bd0" version="1">The shove distance depends on your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; and the target's weight.</content>
   <content contentuid="hc6d900f2g8618g2e4bga10bgc0e5ce91b308" version="1">%%% EMPTY</content>
   <content contentuid="h7f7149f2g408eg095bg4b85g2cff628a2473" version="1">%%% EMPTY</content>
-  <content contentuid="h26e8a637gc5b0g822cg237bg015158e2f926" version="1">Boot of the Giants Raptor Kick</content>
+  <content contentuid="h26e8a637gc5b0g822cg237bg015158e2f926" version="2">Raptor Kick</content>
   <content contentuid="h2b3ad6acg148fgb73eg8056g0f881f5ad306" version="1">Try to kick a target away. Your chances depend on your Athletics, and are higher if you're hidden or invisible.</content>
   <content contentuid="hbe12bafbg3871ge580g9125gaa306da8b89c" version="1">You can kick targets up to twice the weight that &lt;LSTag Type="Spell" Tooltip="Target_Shove"&gt;Shoving&lt;/LSTag&gt; them would allow.</content>
-  <content contentuid="hcc6c2fc7g7a95gd984g18ebg0f566225c6a1" version="1">Raptor Kick</content>
+  <content contentuid="hcc6c2fc7g7a95gd984g18ebg0f566225c6a1" version="2">With a sudden kick, your raptor claw tears through your enemy, the force of the strike crushing as much as it cuts</content>
   <content contentuid="hd9241b68gd79eg6d16g95dcg34a1fe60e288" version="1">Raptor Kick</content>
+  <content contentuid="h16893523gfb4fg0f25ge9c4gc1f42c7178de" version="1">Weakening Strike</content>
+  <content contentuid="h283c4b9dga017g4596g93d9gf591c55fc3b6" version="1">This non-lethal attack possibly inflicts &lt;LSTag Type="Status" Tooltip="HINDERED"&gt;Weak Grip&lt;/LSTag&gt;, hindering the target's attacks.</content>
+  <content contentuid="heacf4f19g9403ge867gbdf1g387f899ffb77" version="1">Creatures without weapons can't have Weak Grip.</content>
+  <content contentuid="hd4ce06bbgb010g1597g5516ga2c05c6ea783" version="1">Trephination</content>
+  <content contentuid="h9833dc91gcbbbgab11g44e8g095c48618a1b" version="1">Make a burr hole into an enemy's skull and possibly knock them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="h4079b2d7gde7bg17c6g1e97ga25ac16228a4" version="1">Boot of the Giants</content>
+  <content contentuid="hf894c271g613cg5171g8647gd02df6d19672" version="1">Try to kick a target away. Your chances depend on your Athletics, and are higher if you're hidden or invisible.</content>
+  <content contentuid="h35d42ec4g4dd7g23fcg7c2dge8d7c5882e54" version="1">You can kick targets up to twice the weight that &lt;LSTag Type="Spell" Tooltip="Target_Shove"&gt;Shoving&lt;/LSTag&gt; them would allow.</content>
+  <content contentuid="h4398f5e9g5d0dg489dg728eg1b7629e27664" version="1">TEST</content>
+  <content contentuid="h54201798g74eega0b5g6e9fg0045df3ccc9d" version="2">CS Scar Absolute</content>
+  <content contentuid="habe29122gfc63g5037g1496gc9414d21adf7" version="2">Clawstep</content>
+  <content contentuid="hc9f4c8bdg8d84gb14cg4138g6f59afd1d4a2" version="5">Raptor - Stripes - Claw Attack</content>
+  <content contentuid="h40d8e70bg8826g28d0gcfa8g59078997a1b2" version="3">Clawstep - Stripes</content>
+  <content contentuid="h22e3de27gf538g95d5ge66eg1b68c77ab2e2" version="1">CS Body - Dots A - Ice</content>
+  <content contentuid="h070c59cfg2ba4g1c72gfdacg267734f0b9e4" version="1">CS Body - Dots A- Obsidian</content>
+  <content contentuid="h2afc99e8g2ab8ge8fdg9295gf67d05baa237" version="1">CS Body - Dots A - Sapphire</content>
+  <content contentuid="h9de95809g70adgd0a1gc242gf5843455bc30" version="1">CS Body - Dots A - Emerald</content>
+  <content contentuid="h74b6919ag51b7gde1eg8ac5g7963e745a9ab" version="1">CS Body - Dots A - Honey Topaz</content>
+  <content contentuid="h1be9a934gf57eg790eg0865g00873fe535ce" version="1">CS Body - Dots A - Ruby</content>
+  <content contentuid="hde577aa1gb014g5b0fg0b70gd729439813dd" version="1">CS Body - Dots A -  Amethyst</content>
+  <content contentuid="h650ad5e1gaabfg8f54gafcdg802a401c54aa" version="1">CS Body - Dots A - Blue-Yellow Topaz</content>
+  <content contentuid="h39b973ffg3d03gf616gcebegbcca66cb6bc9" version="1">CS Body - Dots B - Light Blue</content>
+  <content contentuid="hf0fff67dgfe48gc815g979cgfdb71a799c7b" version="1">CS Body - Dots B- Deep Purple</content>
+  <content contentuid="hd591fe96g0479g9195g584fgbd2c3b4155d3" version="1">CS Body - Dots B - Blue</content>
+  <content contentuid="h95e073a8gfe12g5b42g050agd8fa46031987" version="1">CS Body - Dots B - Green</content>
+  <content contentuid="haa818b69gbb7fg9503gb4ffg38287274fcf4" version="1">CS Body - Dots B - Orange</content>
+  <content contentuid="hdddd52c4gaf16g78c7g749aged3ad6d1582a" version="1">CS Body - Dots B - Red</content>
+  <content contentuid="h9282c4e9g7b36gc8bag841bgd92195dc6b1f" version="1">CS Body - Dots B -  Pink</content>
+  <content contentuid="hadf17c98g0fc0g02fcg0a0fg518c017e7a1f" version="1">CS Body - Dots B - Blue-Yellow</content>
+  <content contentuid="h7b723f34gd77ag50a2g40b2g30d4b3f4bfa1" version="1">CS Body Glow - Karlach Heart - Blue-Green</content>
+  <content contentuid="h369c1016g0670gf5d3g89e0g0f3fa15b9847" version="1">CS Body Glow - Karlach Heart - Purple</content>
+  <content contentuid="h7262fb85gd135gd62bge416g5cdafe449dd9" version="1">CS Body Glow - Karlach Heart - Blue</content>
+  <content contentuid="hc1be72b3gcc79gf1bdg2f89g9c770fda712f" version="1">CS Body Glow - Karlach Heart - Green</content>
+  <content contentuid="h23e9fed4g8013ge1c7g6641gc82764057d4d" version="1">CS Body Glow - Karlach Heart - Fire</content>
+  <content contentuid="ha3f27886g284fg838dge112g79b7aee29778" version="1">CS Body Glow - Karlach Heart - Red</content>
+  <content contentuid="h355505f3gf923g5312g5795g6abfcd6ac85c" version="1">CS Body Glow - Karlach Heart - Pink</content>
+  <content contentuid="hd4af44fdgd846gaf02g2c62g128943c327fc" version="1">CS Body Glow - Karlach Heart - White</content>
+  <content contentuid="hcbbd676eg653agb31agaa04g7fdb17cfc24f" version="1">CS Body - Decor A - Ice</content>
+  <content contentuid="he3526615gb64ag62c4gf307g118196f208ac" version="1">CS Body - Decor A - Obsidian</content>
+  <content contentuid="he3aa05e9gee4fga48aga131g1580b538e6b7" version="1">CS Body - Decor A - Sapphire</content>
+  <content contentuid="h785fea60g4db6g8f56g5450g9b6157604758" version="1">CS Body - Decor A - Emerald</content>
+  <content contentuid="h2520de3agf05cg39a9gbf48gff93c884893c" version="1">CS Body - Decor A - Honey Topaz</content>
+  <content contentuid="h0024e1beg3b9cg9383g6fdfgc637f9b207c6" version="1">Clawstep Body - Decor A - Ruby</content>
+  <content contentuid="he385bf8dg9662gd6bdgf339g6fbdcb49bbb2" version="1">Clawstep Body - Decor A - Amethyst</content>
+  <content contentuid="h13e3d1d4gf885g2d04g8eeegd1d1892c7eaa" version="1">Clawstep Body - Decor A - Blue-Yellow Topaz</content>
+  <content contentuid="h7fa79889g59d9gdc17gbcf1gdd415ad7f551" version="1">CS Body - Decor B - Ice</content>
+  <content contentuid="h9baeddbcge23fg6bb0g3fb6ge67db50810cb" version="1">CS Body - Decor B - Obsidian</content>
+  <content contentuid="h616e1e7eg0188g31f1g1efdg596394d5acbc" version="1">CS Body - Decor B - Sapphire</content>
+  <content contentuid="h04369d2eg8922g162ag2a43g851a046f88e0" version="1">CS Body - Decor B - Emerald</content>
+  <content contentuid="h62093824g24bag58cag5772gc337e8300d03" version="1">CS Body - Decor B - Honey Topaz</content>
+  <content contentuid="hff454c67g8645g7c26g9231g84bc4f96b604" version="1">CS Body - Decor B - Ruby</content>
+  <content contentuid="hd4c8817bg2af7gad86g30b2g19b4bb089dba" version="1">CS Body - Decor B - Amethyst</content>
+  <content contentuid="hbd401ff5gf5f9gf380g8d59g0c4c05986aef" version="1">CS Body - Decor B - Blue-Yellow Topaz</content>
+  <content contentuid="hb21a683fg36b1ge496gb228gfc451602e739" version="1">CS Body - Decor C - Ice</content>
+  <content contentuid="h829aed67g0339gcd95gf09bg0dd586795b29" version="1">CS Body Decor C - Obsidian</content>
+  <content contentuid="h00d6f355gcdf7g5909g9ca4g8f602571578b" version="1">CS Body - Decor C - Sapphire</content>
+  <content contentuid="h7e864b85ge73cgce59gfc23gc9494dac8d6c" version="1">CS Body - Decor C - Emerald</content>
+  <content contentuid="h474f420cg99b8g01bcg1953g406d57257684" version="1">CS Body - Decor C - Honey Topaz</content>
+  <content contentuid="h53ee2c40g6f51g32b5g562cg96a80f3b4df6" version="1">CS Body - Decor C - Ruby</content>
+  <content contentuid="haff069b9gdd56g2fedg663fga6538686310c" version="1">CS Body - Decor C - Amethyst</content>
+  <content contentuid="h461680f9g5784g0d32g71c3g98ee99199956" version="1">CS Body - Decor C - Blue-Yellow Topaz</content>
+  <content contentuid="h612491a6gfe85g4cf5g5e5agc2138c4f7cdc" version="1">CS Body - Decor D -  Light Blue</content>
+  <content contentuid="h9fac7dc2g8b5eg14a5g84cdge7b85c2bcfb8" version="1">CS Body - Decor D - Dark Purple</content>
+  <content contentuid="h478b2112g74ebgfe12gaf54g90d44eb95afe" version="1">CS Body - Decor D - Blue</content>
+  <content contentuid="h7398f67cga753g691dgd496g50e5503de5da" version="1">CS Body - Decor D - Green</content>
+  <content contentuid="he5fead85gda90gbbbfga720gbf8676e395d2" version="1">CS Body - Decor D - Orange</content>
+  <content contentuid="h6b08822cgb6ddg9377gdcd4g1011d66eb31c" version="1">CS Body - Decor D - Red</content>
+  <content contentuid="h6ae33c8bg15f8ga972g90d3g53f102bb1893" version="1">CS Body - Decor D - Pink</content>
+  <content contentuid="h86c3f0abg1b21ga1f6gcdb9g4a0e27a71664" version="1">CS Body - Decor D - Blue-Yellow</content>
+  <content contentuid="hc88b20d9g8a3cgbf14gfc4fg8bdbbb7cad89" version="1">CS Body - Decor E - Ice</content>
+  <content contentuid="h27e99256gee59gbbc6g7f60g861bf9ab514b" version="1">CS Body - Decor E - Obsidian</content>
+  <content contentuid="h117439b0gc6fcgd9a8gb7b4g0ebe3e5d9a9d" version="1">CS Body - Decor E - Sapphire</content>
+  <content contentuid="h9651df82g2e18g19edg6fcdg19bad309c097" version="1">CS Body - Decor E - Emerald</content>
+  <content contentuid="h6506b1dag5196g89bcgdcf6gc9dbeb1d5d0e" version="1">CS Body - Decor E - Honey Topaz</content>
+  <content contentuid="h1fe5e8a5g26a5gfe58ge40dg7c13004395f5" version="1">CS Body - Decor E - Ruby</content>
+  <content contentuid="h297c57dag70a3g71abg3730g2c574e846ada" version="1">CS Body - Decor E - Amethyst</content>
+  <content contentuid="h2e102a06g3f5cge6c5g684ega3cbd69f49ae" version="1">CS Body - Decor E - Blue-Yellow Topaz</content>
+  <content contentuid="h0c033449gba38gef93g9a64g902f609ef08d" version="1">CS Body - Decor F - Ice</content>
+  <content contentuid="h5ef7c899g6e4bg0f39ga0b0gf049f7f6ce5a" version="1">CS Body - Decor F - Obsidian</content>
+  <content contentuid="hc2c64884ga090g3bb5ga810gb2308ebf0be7" version="1">CS Body - Decor F - Sapphire</content>
+  <content contentuid="h899f0b4ag6530g8080g8987g42111efc8117" version="1">CS Body - Decor F - Emerald</content>
+  <content contentuid="h2cb33648g0afdg6af7g6287g328c90feb07f" version="1">CS Body  - Decor F - Honey Topaz</content>
+  <content contentuid="h2bd76cdbg48edg22d1g6428gb83a204eebed" version="1">CS Body - Decor F - Ruby</content>
+  <content contentuid="hd8b9818ag46cagcf30g0fcdg86229fa048ae" version="1">CS Body Decor F - Amethyst</content>
+  <content contentuid="h16a4b254g0fffg57dcg912fgd23c0942e865" version="1">CS Body - Decor F - Blue-Yellow Topaz</content>
+  <content contentuid="h3b158246gcd6eg979egdeacgc4f4b9073deb" version="1">CS Body - Decor G - Ice</content>
+  <content contentuid="h098d46eeg11bfg6c07g56bage43168d00271" version="1">CS Body - Decor G - Obsidian</content>
+  <content contentuid="h36f9de70gb4a8gde4dgc2a5gb383aaba087c" version="1">CS Body - Decor G - Sapphire</content>
+  <content contentuid="hff95bbe5g316bg4f51gebcdg1cb5146379f2" version="1">CS Body  - Decor G - Emerald</content>
+  <content contentuid="h405136ceg9c3cg4a0cgae4bgf84af72dcf0d" version="1">CS Body - Decor G - Honey Topaz</content>
+  <content contentuid="h3ddaa0f2gdf9cg4ae1g768bgf3e5551e3bb5" version="1">CS Body - Decor G - Ruby</content>
+  <content contentuid="h6572ff3fgc1fagd42bgd2dag182821343847" version="1">CS Body - Decor G - Amethyst</content>
+  <content contentuid="h0f1a7f15g9afcg6bf1g0a4cgff5f3f14728a" version="1">CS Body - Decor G - Blue-Yellow Topaz</content>
+  <content contentuid="h8a433385gc114gd1c8gd7a3gd0b2ac284bee" version="1">CS Body - Decor I - Ice</content>
+  <content contentuid="h8225aee8g1621ga988gc6e6g9ce0ecc22854" version="1">CS Body - Decor I - Obsidian</content>
+  <content contentuid="hac0415b2g8bb1gaad8g4f51g3ca3e029bdb0" version="1">CS Body  - Decor I - Sapphire</content>
+  <content contentuid="hdc2e1683gccb7g09d0g93eeg20c58b979928" version="1">CS Body - Decor I - Emerald</content>
+  <content contentuid="h6c49ee76gd4c6gef87gad36ge92c71049ccd" version="1">CS Body - Decor I - Honey Topaz</content>
+  <content contentuid="h7cbbbe29gd947g2665ge96fg419d3355d76f" version="1">CS Body - Decor I - Ruby</content>
+  <content contentuid="hf3ec7927ga05egc768gb7fcg9bfc3a236745" version="1">CS Body - Decor I - Amethyst</content>
+  <content contentuid="h70b37523g8801g83edg20d7g95b374fdfcd5" version="1">CS Body - Decor I - Blue-Yellow Topaz</content>
+  <content contentuid="hb861752bg0b06g156dg9d5cg897a3d5acc27" version="1">CS Body - Decor J - Ice</content>
+  <content contentuid="h7fd08fc9g5bffgadc1g39f3ga2832562754d" version="1">CS Body - Decor J - Obsidian</content>
+  <content contentuid="h4bd2d1b6g29eeg5b68g868cg8eb69f743989" version="1">CS Body - Decor J - Sapphire</content>
+  <content contentuid="hfbf496eegc905g873dg7c41g1aa14a3fcb64" version="1">CS Body Decor J - Emerald</content>
+  <content contentuid="h4dda72e3gd6afg349eg3ebeg6df9e6a4478c" version="1">CS Body - Decor J - Honey Topaz</content>
+  <content contentuid="h3a8b7ac2g4900g281bg2c28gda39fb0e8f08" version="1">CS Body - Decor J - Ruby</content>
+  <content contentuid="ha994bb44g16ddg62e2gdcaag12dfd470162d" version="1">CS Body - Decor J - Amethyst</content>
+  <content contentuid="h84df856agd9d5g51e7g2273g45f1c66f6dbb" version="1">CS Body - Decor J - Blue-Yellow Topaz</content>
+  <content contentuid="h1d900580gcdb0g39d4geda4g02c693975932" version="1">CS Body - Dots A - Ice</content>
+  <content contentuid="hbd64f86eg76fcgb798ge552g0aa7a07fbc81" version="1">CS Body - Dots A- Obsidian</content>
+  <content contentuid="h3dade38fg2d57g3138gf3a9g95574288eff9" version="1">CS Body - Dots A - Sapphire</content>
+  <content contentuid="h6e8c9ac6g80ddg1665g6862gc13b01e56132" version="1">CS Body - Dots A - Emerald</content>
+  <content contentuid="hbb50c383ge68eg2dd7g1071g88af875a1394" version="1">CS Body - Dots A - Honey Topaz</content>
+  <content contentuid="h54e2420bg9b8fgcd5bgb27dgc363ef7610d2" version="1">CS Body - Dots A - Ruby</content>
+  <content contentuid="hf56b65d4gc474g7fd8g15a9g57281e238e01" version="1">CS Body - Dots A -  Amethyst</content>
+  <content contentuid="haaf6068bg33eagaa25ge9a0gac7fda0d7ff2" version="1">CS Body - Dots A - Blue-Yellow Topaz</content>
+  <content contentuid="h6725c5efgfc6cgf669g6d62gd18c956f6da9" version="1">CS Body - Dots B - Light Blue</content>
+  <content contentuid="h8c6adbbbg7d27ge0afga862g0256123cafbb" version="1">CS Body - Dots B- Deep Purple</content>
+  <content contentuid="h0653f641gfa34gb902g625cg8901d7c7bc34" version="1">CS Body - Dots B - Blue</content>
+  <content contentuid="h99215fbeg1972g48e1gfd18ge01be1640384" version="1">CS Body - Dots B - Green</content>
+  <content contentuid="hcdc3b2e5g2e6fg63f3ga58cgbc2f4736ca99" version="1">CS Body - Dots B - Orange</content>
+  <content contentuid="h568a3b31gccdegb128gf65fg2a55de4e381e" version="1">CS Body - Dots B - Red</content>
+  <content contentuid="h02a202d4g7fe5g224fg0c74gcacf080aaf57" version="1">CS Body - Dots B -  Pink</content>
+  <content contentuid="h93c4d7ecgb2bbg081fg43cfg54ff9de47296" version="1">CS Body - Dots B - Blue-Yellow</content>
+  <content contentuid="h83fb9f60g825bg172ag9f34gc95bc469f45f" version="1">CS Body Glow - Karlach Heart - Blue-Green</content>
+  <content contentuid="h189ef066g8a89gfd70g68d5gfa4f758c37e4" version="1">CS Body Glow - Karlach Heart - Purple</content>
+  <content contentuid="hdeb58b2cg63adge3afgff64gc274e2219bf7" version="1">CS Body Glow - Karlach Heart - Blue</content>
+  <content contentuid="h97c11023g79e6g5de5g3d31geb25a4580b5a" version="1">CS Body Glow - Karlach Heart - Green</content>
+  <content contentuid="h71f294d3gb70bgfe86g5091ga809fc714afd" version="1">CS Body Glow - Karlach Heart - Fire</content>
+  <content contentuid="hb40b367age56fgacb3gf6c1gc4456a5e2c8b" version="1">CS Body Glow - Karlach Heart - Red</content>
+  <content contentuid="hcb8b2733gf569g11abge4aag7ec0a291ec1e" version="1">CS Body Glow - Karlach Heart - Pink</content>
+  <content contentuid="h97ec121egb2a8gea79g8081g7e8291b8696f" version="1">CS Body Glow - Karlach Heart - White</content>
+  <content contentuid="h5704f2e3g13dage205g6785g8409b9714de2" version="1">CS Body - Decor A - Ice</content>
+  <content contentuid="h16fcdb62g8e7dg5683gb4d8gaf1010b78c37" version="1">CS Body - Decor A - Obsidian</content>
+  <content contentuid="h795ffe8cgff85g1dbcg7b4agd49bfc2c065a" version="1">CS Body - Decor A - Sapphire</content>
+  <content contentuid="h5297a01cg41ccg4702g3afag19c5180b4be3" version="1">CS Body - Decor A - Emerald</content>
+  <content contentuid="h62c8420dg89e5gcefbg8798gaa8e94508420" version="1">CS Body - Decor A - Honey Topaz</content>
+  <content contentuid="h0876fac4g0c95gf564gae5fgcafbbdce6b53" version="1">Clawstep Body - Decor A - Ruby</content>
+  <content contentuid="hd0a4d599ga1f7g5512ge594gcab16b8ea935" version="1">Clawstep Body - Decor A - Amethyst</content>
+  <content contentuid="h34aef237gd524g214fg54a2gd0170a3d72d5" version="1">Clawstep Body - Decor A - Blue-Yellow Topaz</content>
+  <content contentuid="hf06ab33bg09e0g8007g89ccgf5b86557ac73" version="1">CS Body - Decor B - Ice</content>
+  <content contentuid="h2c4d1767g082bg9781ge920g72a6d0b2c518" version="1">CS Body - Decor B - Obsidian</content>
+  <content contentuid="h5835a2d4g2592g93afg2228g42e3c9493a5c" version="1">CS Body - Decor B - Sapphire</content>
+  <content contentuid="h1499b415ge7e6g979cg4505g8568bc6847a1" version="1">CS Body - Decor B - Emerald</content>
+  <content contentuid="he3c89b70gc982g90fag5a04g68db71c23ac9" version="1">CS Body - Decor B - Honey Topaz</content>
+  <content contentuid="hb127dddfgb70agbf09g3ca3g5abc549b2601" version="1">CS Body - Decor B - Ruby</content>
+  <content contentuid="h08b59a26g7b97g698fg82e3g54fb295fc112" version="1">CS Body - Decor B - Amethyst</content>
+  <content contentuid="hbf4e4edegf8adg1447gc041gf465c954ac1c" version="1">CS Body - Decor B - Blue-Yellow Topaz</content>
+  <content contentuid="h9b1418d1ga985g2879g63a3g6eb635af4d5b" version="1">CS Body - Decor C - Ice</content>
+  <content contentuid="h1303e939g940cge569gd3dbgf8945ed371e1" version="1">CS Body Decor C - Obsidian</content>
+  <content contentuid="h47372120g2026gd441g5022gd84d3a298d60" version="1">CS Body - Decor C - Sapphire</content>
+  <content contentuid="hae1f5761gb6ebge772g5fd7g9929580e3d90" version="1">CS Body - Decor C - Emerald</content>
+  <content contentuid="he6ffd29fge307g2616gf238gc3e9320054c9" version="1">CS Body - Decor C - Honey Topaz</content>
+  <content contentuid="he4596e90ge445ga078gb40bg531e92574651" version="1">CS Body - Decor C - Ruby</content>
+  <content contentuid="h496a558ag528cg1d38g3477g239678d8b177" version="1">CS Body - Decor C - Amethyst</content>
+  <content contentuid="h134c774fgbec9gd017g8cf1g6fe51c28ba86" version="1">CS Body - Decor C - Blue-Yellow Topaz</content>
+  <content contentuid="h89971239gf282g2dd3g182ag3ca7ad94d945" version="1">CS Body - Decor D -  Light Blue</content>
+  <content contentuid="h02a15f28gd62cge259g00aag65e8dfab47f2" version="1">CS Body - Decor D - Dark Purple</content>
+  <content contentuid="h6c686bcfg519fgd9b1ge134g42c9be9931c4" version="1">CS Body - Decor D - Blue</content>
+  <content contentuid="hdc7203b6g1fe4ge5b8gef2agc9b2da73a660" version="1">CS Body - Decor D - Green</content>
+  <content contentuid="h0dd82926gf538g9990g5e26g1ef49c2df2cc" version="1">CS Body - Decor D - Orange</content>
+  <content contentuid="hb7f3cb29g05bbgfa8dg163egd61bfc04a754" version="1">CS Body - Decor D - Red</content>
+  <content contentuid="h45b6b9bdg5129g6a2bg4f53ge2f81c506760" version="1">CS Body - Decor D - Pink</content>
+  <content contentuid="h510f6481g8836gedccg5680g0a68d0441a0f" version="1">CS Body - Decor D - Blue-Yellow</content>
+  <content contentuid="h88393570gc3fbg8796g6f48g7194620abbdd" version="1">CS Body - Decor E - Ice</content>
+  <content contentuid="h12159ba1g6bbfg205egac7cg1cb3a2dc2a95" version="1">CS Body - Decor E - Obsidian</content>
+  <content contentuid="hb9d19d5dg19acge9d6gb77eg40d70d6baded" version="1">CS Body - Decor E - Sapphire</content>
+  <content contentuid="h2ec936d9g4d22ga5b3gc9b7gf4610566d76b" version="1">CS Body - Decor E - Emerald</content>
+  <content contentuid="hfabf4393gda91gac28g28a9g39ee2f55c173" version="1">CS Body - Decor E - Honey Topaz</content>
+  <content contentuid="hcd7a83d5g6703gb6f1g52c3g58c1177df18c" version="1">CS Body - Decor E - Ruby</content>
+  <content contentuid="h508696bbg035fg3d26gdfb5ge1588dd6a707" version="1">CS Body - Decor E - Amethyst</content>
+  <content contentuid="h83d0e754ge527g0e6dgdb48g2f9eea85002f" version="1">CS Body - Decor E - Blue-Yellow Topaz</content>
+  <content contentuid="he451ffc7ga2e3g6a09gfe84ga50da66ac320" version="1">CS Body - Decor F - Ice</content>
+  <content contentuid="hda333ac8g9334g6586g96ccg86b95f5d0e2c" version="1">CS Body - Decor F - Obsidian</content>
+  <content contentuid="h59433b8ag710egea17gfe0bg165165320a68" version="1">CS Body - Decor F - Sapphire</content>
+  <content contentuid="h1b19e658g7a2bg87b1g4debgc32ffea4e184" version="1">CS Body - Decor F - Emerald</content>
+  <content contentuid="h3564798ag9e2cg7df2g54f4gdbd4506d1b37" version="1">CS Body  - Decor F - Honey Topaz</content>
+  <content contentuid="heda71acage8acgef25gac2cg176ebc50ba14" version="1">CS Body - Decor F - Ruby</content>
+  <content contentuid="hc4219a84gb95bg60fegfd51g3f3fbc9f77ed" version="1">CS Body Decor F - Amethyst</content>
+  <content contentuid="hf46468efg967bg0f7fg124bg0fc1433432e3" version="1">CS Body - Decor F - Blue-Yellow Topaz</content>
+  <content contentuid="h87174beage9b0ga39cga9f2g67bb2797c26d" version="1">CS Body - Decor G - Ice</content>
+  <content contentuid="hf5990b28g942bg604agea67gb9018b596665" version="1">CS Body - Decor G - Obsidian</content>
+  <content contentuid="h64238837gbb35ge086g8b09g8d3e6dad39ed" version="1">CS Body - Decor G - Sapphire</content>
+  <content contentuid="hee82a5b2g8044g1a12g8ff0gc1d8ae7c3854" version="1">CS Body  - Decor G - Emerald</content>
+  <content contentuid="hd8f802degbdd5g1160gb87cgfe5fd5d530f0" version="1">CS Body - Decor G - Honey Topaz</content>
+  <content contentuid="h17ab41fbgc872g245dg2cadgd41c217981d6" version="1">CS Body - Decor G - Ruby</content>
+  <content contentuid="he814fab6g26ddgc60dge532g3e762638870c" version="1">CS Body - Decor G - Amethyst</content>
+  <content contentuid="h6de4c1b3ga3a4g8c90gaaacg0bcfbe3f48ee" version="1">CS Body - Decor G - Blue-Yellow Topaz</content>
+  <content contentuid="h811b20e6g965eg042fgc3ddg2c7a12a5f720" version="1">CS Body - Decor I - Ice</content>
+  <content contentuid="h08651260ga08cgfe30gf802g7f2961a217cb" version="1">CS Body - Decor I - Obsidian</content>
+  <content contentuid="hd8b3df68gdc56g65f6gef12g50955e3e12a8" version="1">CS Body  - Decor I - Sapphire</content>
+  <content contentuid="h86229758g5af9g2e49gda39g72a37da753e6" version="1">CS Body - Decor I - Emerald</content>
+  <content contentuid="h3d4ec0b1g89c0gbee1g02e5gdc8be8d309fd" version="1">CS Body - Decor I - Honey Topaz</content>
+  <content contentuid="h2a1b53adge4ceg1c59g4ebcg2a5132daed2e" version="1">CS Body - Decor I - Ruby</content>
+  <content contentuid="h11c6e8c3g3daeg0960g0461gdebce06cab0a" version="1">CS Body - Decor I - Amethyst</content>
+  <content contentuid="h4766afc0g5d7bg2dc9ge394g936f21293a57" version="1">CS Body - Decor I - Blue-Yellow Topaz</content>
+  <content contentuid="h7fc87e16g77e9g6238g3fb2g7c6d671b6644" version="1">CS Body - Decor J - Ice</content>
+  <content contentuid="h962744dbgcac6g4738g404eg364e8a36e330" version="1">CS Body - Decor J - Obsidian</content>
+  <content contentuid="h8144a3e8ga41dg0488g8683gbe75889dae22" version="1">CS Body - Decor J - Sapphire</content>
+  <content contentuid="h80cc3e0eg46b0g52aag7a9fg1612d6d090c6" version="1">CS Body Decor J - Emerald</content>
+  <content contentuid="h3692933bg9a1fg54fag33fdgbc6ad2d61768" version="1">CS Body - Decor J - Honey Topaz</content>
+  <content contentuid="hb983c3bdga6d1ga115gbb89g79483da84682" version="1">CS Body - Decor J - Ruby</content>
+  <content contentuid="h5508366cgb5dcg6b50gec11g9b0640dff7d9" version="1">CS Body - Decor J - Amethyst</content>
+  <content contentuid="h0f560255g0e3bg07f0gffdaga9f28765ba23" version="1">CS Body - Decor J - Blue-Yellow Topaz</content>
+  <content contentuid="h2ec99585g9e10ga870ge6b0g56a4b46b779c" version="1">CS Body - Dots H - Ice</content>
+  <content contentuid="h97705558gc75agaf13ge0deg37a0f2e2276e" version="1">CS Body - Dots H- Obsidian</content>
+  <content contentuid="h8d14d9bfg6bdfgdd43gfc98gf4eebb48c98f" version="1">CS Body - Dots H - Sapphire</content>
+  <content contentuid="hab729dddg6a22g25a9gbdb0g21eacc5d450d" version="1">CS Body - Dots H - Emerald</content>
+  <content contentuid="h7e7d1b81gcaa4gbee5g5e01gf5cbada4b22e" version="1">CS Body - Dots H - Honey Topaz</content>
+  <content contentuid="hbe654064g4febg9543gc493g0444e25cef7a" version="1">CS Body - Dots H - Ruby</content>
+  <content contentuid="h3aec0129gc399g3410g353eg1ecdc5684831" version="1">CS Body - Dots H -  Amethyst</content>
+  <content contentuid="hb4ac31efg25dagfd54gb502g200be4863794" version="1">CS Body - Dots H - Blue-Yellow Topaz</content>
+  <content contentuid="h3bcdf32dg87d1g9d4bg5960g29f2862fdd64" version="1">CS Body - Dots H - Ice</content>
+  <content contentuid="h6085ea8bg089eg8d09g3a1egb0d327bf2d4a" version="1">CS Body - Dots H- Obsidian</content>
+  <content contentuid="h9ea4d181g58e4g6963g58aeg6dd5c206f6d6" version="1">CS Body - Dots H - Sapphire</content>
+  <content contentuid="h4192a13eg3f2dg486ege6a3g4013df0a757d" version="1">CS Body - Dots H - Emerald</content>
+  <content contentuid="h100da0c4gc2e3gd321g3537gb81d17af053f" version="1">CS Body - Dots H - Honey Topaz</content>
+  <content contentuid="h370927ceg2a34g2c1bgf8ccg13db73c8173b" version="1">CS Body - Dots H - Ruby</content>
+  <content contentuid="h7f2e09dag183dg6546g3254g1d8b93028315" version="1">CS Body - Dots H -  Amethyst</content>
+  <content contentuid="h28041a95g9703g187ag1238g9713a1670df8" version="1">CS Body - Dots H - Blue-Yellow Topaz</content>
+  <content contentuid="ha13dd613g10a6g4133g0a15g5013267dd8ab" version="3">Short Claws - Extra Speed</content>
+  <content contentuid="h5dfc02fegfc92g4ef7gede5gd50134049e0a" version="4">Inner Sickle - Claw Attack</content>
+  <content contentuid="h00c579aagc6c2g1259ga945gc25fd4fb9c6f" version="4">Outer Sickle - Claw Attack</content>
+  <content contentuid="h636c4b58g6b58g0c6cgdbafg4c249d88b7c6" version="1">Sickle Kick</content>
+  <content contentuid="h47e18503g8344gbb4cg2562gbc45bdda0470" version="3">You hammer down with a powerful kick, the weight of your stride cracking bone as the hooked claw bites in</content>
+  <content contentuid="hd99c9200g4e23g3db1g55ffgc827dd0cfa41" version="2">Sickle Kick</content>
+  <content contentuid="h50d80018gcb3cge697g6bc8g6ca1e2162c62" version="1">Try to kick a target away. Your chances depend on your Athletics, and are higher if you're hidden or invisible.</content>
+  <content contentuid="h28486652g1ac4gd184g6622g2518cb77b818" version="1">You can kick targets up to twice the weight that &lt;LSTag Type="Spell" Tooltip="Target_Shove"&gt;Shoving&lt;/LSTag&gt; them would allow.</content>
+  <content contentuid="hd49e5975g8d54g1ac8g0361g21067eb7aaee" version="1">Speed of Claws</content>
+  <content contentuid="hf4f92ddbg795fg0a32g4611g692c63ae01c6" version="2">Your stance and clawed feet give you a predator’s gait, turning your every step into a quick, decisive rush</content>
+  <content contentuid="h3ef3a667gfe7eg6570g98e1g5e0c98f46cb4" version="1">Speed of Claws</content>
+  <content contentuid="hef10d443g81acgca67g0891g4cb95a2deb5b" version="1">Cover more distance this turn: double your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt;.</content>
+  <content contentuid="hcc33b5b0g0c7bg8e7egce03gdee7ea240bdc" version="1">Cunning Action: Dash</content>
+  <content contentuid="h39113667g741fga552g30b7g81092855ea38" version="1">3 Talons - Extra Speed</content>
+  <content contentuid="h0d85cc52g9008g1375gc34eg89632f7e996c" version="1">Short Claws - Extra Speed</content>
+  <content contentuid="hc3aea87bge6ccgc690g4d57gb5306315f24c" version="1">Raptor - Claw Attack</content>
+  <content contentuid="h68c7821bg424egb3f1gda9cg1fcc854bef72" version="3">Raptor - Scars A - Claw Attack</content>
+  <content contentuid="h554b4b2cg1f63ga2d0gbbfcg42ced7c7ce60" version="1">3 Talons - Extra Speed</content>
+  <content contentuid="hd18908f5g8fe1gd60egf76cgad5a0ef0dcda" version="2">Clawstep - Scars A</content>
+  <content contentuid="hf73a8147gbb16ge710g2b4cg49eef094400a" version="1">Outer Sickle - Claw Attack</content>
+  <content contentuid="h8dbdfdcdg3082gf312g3926gaacca6fba8c2" version="1">Inner Sickle - Claw Attack</content>
+  <content contentuid="h3ba0773ag419aga7f1g3285g17b91de00223" version="2">Raptor - Stripes - Claw Attack</content>
+  <content contentuid="h4cdc6650g0a64ga564g077eg7e855669b7b9" version="2">3 Talons - Scars A - Extra Speed</content>
+  <content contentuid="h55e35ac6g10c8gad70ga47bg2fe2422ac698" version="2">3 Talons - Stripes - Extra Speed</content>
+  <content contentuid="h0561c932g3990g53b0g426eg92daafc6927c" version="1">Short Claws - Scars A - Extra Speed</content>
+  <content contentuid="hd3b46b69g8c47g0e16gb57cg0c261070d7c2" version="1">Short Claws - Stripes - Extra Speed</content>
+  <content contentuid="hadd0440cgde29g536cg4c11g1a0eafc7d62f" version="2">Inner Sickle - Scars A - Claw Attack</content>
+  <content contentuid="hb759d799g2562g80ddgf72fg21a9a8fd32c4" version="2">Inner Sickle - Stripes - Claw Attack</content>
+  <content contentuid="hb43ac637g0e27ga465g0939g61ad5aa22ba5" version="2">Outer Sickle - Scars A - Claw Attack</content>
+  <content contentuid="h8ac2fec8g89c8g3df6gb5b0g2a236d3304df" version="2">Outer Sickle - Stripes - Claw Attack</content>
+  <content contentuid="h37916c5cga9bbg5e0eg2cebg3502a19a8f6b" version="1">Clawstep - Stripes</content>
+  <content contentuid="h989de479g2aecg4a18g6caag95f3453909a4" version="1">Clawstep - Scars A</content>
+  <content contentuid="h30b1dc82gaae4g7c55gd5ccga581193fa5a3" version="1">Raptor - Scars A - Claw Attack</content>
+  <content contentuid="hf6c71284g42cegcd6bg1df7g3023a719a73c" version="1">Short Claws - Scars A - Extra Speed</content>
+  <content contentuid="ha43953d9g58f4gcb9fg4102g3a0a4e0670b2" version="1">Short Claws - Stripes - Extra Speed</content>
+  <content contentuid="h57385afegba31g9474gd333g1c7f7729ee19" version="2">3 Talons - Scars A - Extra Speed</content>
+  <content contentuid="h81188018g0a5agb638gdc00g89027c7a5d39" version="2">3 Talons - Stripes - Extra Speed</content>
+  <content contentuid="h6de91789ge85bg1b2egde88g324f887a829a" version="2">Outer Sickle - Scars A - Claw Attack</content>
+  <content contentuid="he1b93cb2gab2agab10g52d9gae64abc8d27c" version="2">Outer Sickle - Stripes - Claw Attack</content>
+  <content contentuid="h093200eag5c2cg6a4bg7e9ag2a72acd9f24d" version="2">Inner Sickle - Scars A - Claw Attack</content>
+  <content contentuid="hf11dcebdg7e8aga6dcg2cb9g05364fbfe7bf" version="2">Inner Sickle - Stripes - Claw Attack</content>
+  <content contentuid="hc497cc55g475eg7ec8gfd4egb734dfe01a72" version="2">Scar from Monstrer Claw</content>
+  <content contentuid="h05374004g303dg2eedg6ff3g7048f0c6fe30" version="1">Scar of Absolute</content>
+  <content contentuid="hb23312c7gf97fg62f1gbbf8g8e0e5f3f1c1b" version="1">Scar from Monstrer Claw</content>
+  <content contentuid="h2e241e82g491fg15e9gab9ag4318805577f7" version="1">Clawstep - Scars B</content>
+  <content contentuid="h27402ae1g6325g012cg061cg84dfaa403f1d" version="1">Clear Spine</content>
+  <content contentuid="h5fba3edag145agf32cg530bg74ccfb3a1553" version="2">Clear Spine</content>
+  <content contentuid="he0386b50gcc50g32c3g7881g492dd5acfd0d" version="1">Scar of Absolute</content>
+  <content contentuid="h95691e74g9eaegcddegd963g58d89ab97a49" version="1">Short Claws - Scars B - Extra Speed</content>
+  <content contentuid="h35bc6ea9g6344g11e3g1ae6g32eb716bb4b8" version="1">Clawstep - Scars B</content>
+  <content contentuid="ha2c7f215ga5efg39dcg5311g207aecd7c0e5" version="1">Raptor - Scars B - Claw Attack</content>
+  <content contentuid="hfdd610f1g2ae8ge1d3gd22agff5610eec901" version="1">3 Talons - Scars B - Extra Speed</content>
+  <content contentuid="h5a91731ag8d84gb847g733dgc6fadf1946f7" version="1">Inner Sickle - Scars B - Claw Attack</content>
+  <content contentuid="hc0cfd460g68afgf246g1cb2g00c58fd6bca1" version="1">Outer Sickle - Scars B - Claw Attack</content>
+  <content contentuid="h143bc0daga2f0g860ag818eg2053cefd7606" version="1">Clawstep - Scars B</content>
+  <content contentuid="h12d58863g4803g8a38g3f1bg3c041fc72c7d" version="1">Short Claws - Scars B - Extra Speed</content>
+  <content contentuid="h8f427316g34e7gf593ga9e0gfb2f51e60414" version="1">Raptor - Scars B - Claw Attack</content>
+  <content contentuid="h02f0df03g7d53gdf15g707agbe62cb607f39" version="2">3 Talons - Scars B - Extra Speed</content>
+  <content contentuid="h08fe25e9ga5edg0e67g3cf5g6ed31c0bc757" version="1">Inner Sickle - Scars B - Claw Attack</content>
+  <content contentuid="h133d8591g6182gf25dg7244g220473a71584" version="1">Outer Sickle - Scars B - Claw Attack</content>
+  <content contentuid="h5c610c54g5379g4f0cgea98gc8af4cfdce48" version="1">Scar Cracks</content>
+  <content contentuid="h4b076d6egad09gad71ge365gdcd22c5f42e0" version="1">Scar from Monstrer Claw</content>
+  <content contentuid="he93b42a9gb7aag2312gbe36g276e8eeba0a5" version="1">Scar Cracks</content>
+  <content contentuid="hdf30548cgd518ge859g3110g13c961302811" version="1">Clawstep Original</content>
+  <content contentuid="h4f99ed79ge5beg0543g6e06gd5fca87d5f7b" version="1">Clawstep Original</content>
+  <content contentuid="h9ca00629g6f2dg65e1g8446g4226ded8161e" version="1">CS Body - Dots A - Ice</content>
+  <content contentuid="h3a3a3d88g40edgbc2bgdac6g186eff2bd1e2" version="1">CS Body - Dots A- Obsidian</content>
+  <content contentuid="h78d88f65g3604g75a2g16c4g6f11c2c565b7" version="1">CS Body - Dots A - Sapphire</content>
+  <content contentuid="h9ceb95bcg21dagd897g61c7gbcaf56147610" version="1">CS Body - Dots A - Emerald</content>
+  <content contentuid="h3a87b329g82eag1d8cg21f8g9bb0bf3a29e2" version="1">CS Body - Dots A - Honey Topaz</content>
+  <content contentuid="hd2590fdag4e29g33d9gef6bg5665b986eb89" version="1">CS Body - Dots A - Ruby</content>
+  <content contentuid="h8aa54e33gefaeg9f8cgd2eag7961406ca7fc" version="1">CS Body - Dots A -  Amethyst</content>
+  <content contentuid="h50600140g0ed5gd6dfgef3dg25e3fab87dc9" version="1">CS Body - Dots A - Blue-Yellow Topaz</content>
+  <content contentuid="hd79b60bbg212cgb15bge9adg9558920ed952" version="1">CS Body - Dots B - Light Blue</content>
+  <content contentuid="hb9a9fa9bg607cg3701g949fg267a2e3f170f" version="1">CS Body - Dots B- Deep Purple</content>
+  <content contentuid="h78398ea4g135cg7af9gc299g2644576d9d12" version="1">CS Body - Dots B - Blue</content>
+  <content contentuid="hceb2aa91g0da3gdaa1g6283g4365bc1e45ac" version="1">CS Body - Dots B - Green</content>
+  <content contentuid="h1c93a5cfg93a6g4ab1g9ad6gd791c2d4aee7" version="1">CS Body - Dots B - Orange</content>
+  <content contentuid="h803abc7bgf4d9g9bffg1c2ega6541ef6109c" version="1">CS Body - Dots B - Red</content>
+  <content contentuid="h1455b148g26c7gc43ege395g933619d8dc76" version="1">CS Body - Dots B -  Pink</content>
+  <content contentuid="h255bd79bg7da7gf921ga4a7g01807fa0f680" version="1">CS Body - Dots B - Blue-Yellow</content>
+  <content contentuid="hcab93051g2162gc2a2ga765g39be5a4da532" version="1">CS Body Glow - Karlach Heart - Blue-Green</content>
+  <content contentuid="hc78ff923g666egb623g481fg49d93c3e5906" version="1">CS Body Glow - Karlach Heart - Purple</content>
+  <content contentuid="h2ca329b0g6a22ga631g7965gec644ff7a88a" version="1">CS Body Glow - Karlach Heart - Blue</content>
+  <content contentuid="hc8d40d50g0207g62fbg279bg29485c8b8837" version="1">CS Body Glow - Karlach Heart - Green</content>
+  <content contentuid="h59ad4a66ge9cdg40cbg56d5g39b1e99007da" version="1">CS Body Glow - Karlach Heart - Fire</content>
+  <content contentuid="h58c3e60eg1079gfee8ge323gcaf6a119ae0e" version="1">CS Body Glow - Karlach Heart - Red</content>
+  <content contentuid="hd2f8c644gc421g61d1gca79g2059c2514b4d" version="1">CS Body Glow - Karlach Heart - Pink</content>
+  <content contentuid="h249dd8d8gf37ag0341g7f54gdae593793811" version="1">CS Body Glow - Karlach Heart - White</content>
+  <content contentuid="h7ed8811egae32g7519g984ag31dff2f5ebca" version="1">CS Body - Decor A - Ice</content>
+  <content contentuid="h64d16305g12e6gf18dg9324g1db1a27dfa41" version="1">CS Body - Decor A - Obsidian</content>
+  <content contentuid="hc82cad88gd1e5g09c7ge2fbg4f813b7cc7d9" version="1">CS Body - Decor A - Sapphire</content>
+  <content contentuid="hde553eeeg4c23g4a22gd165g745b2ddabb5c" version="1">CS Body - Decor A - Emerald</content>
+  <content contentuid="h846c36aagecc9g0174g6d87gb6beeb66f9fb" version="1">CS Body - Decor A - Honey Topaz</content>
+  <content contentuid="hce3538c6g553ag8d3bgf45dgda52d8aca16c" version="1">Clawstep Body - Decor A - Ruby</content>
+  <content contentuid="h2eba6470g8f9ag3437gb32fg5a61eb4bbf64" version="1">Clawstep Body - Decor A - Amethyst</content>
+  <content contentuid="h4deee2cdgdfaeg2950g6c98gcbd44f9e99d0" version="1">Clawstep Body - Decor A - Blue-Yellow Topaz</content>
+  <content contentuid="h8220a37fgcf34g8274gd9efg20091850550d" version="1">CS Body - Decor B - Ice</content>
+  <content contentuid="h3b56444cg6b28g7e72gc0e5gad9508f1b11b" version="1">CS Body - Decor B - Obsidian</content>
+  <content contentuid="hc96ba350g780eg79cfg432bgf0052f9309ee" version="1">CS Body - Decor B - Sapphire</content>
+  <content contentuid="hb659f82bgc933g6e8dgda3cgbfdeeea3972e" version="1">CS Body - Decor B - Emerald</content>
+  <content contentuid="hd2fd4733g4aecga483g09f9gc3798857c65f" version="1">CS Body - Decor B - Honey Topaz</content>
+  <content contentuid="h464cf745gb938gee7dg7b3fg7dcfa93fbef6" version="1">CS Body - Decor B - Ruby</content>
+  <content contentuid="h962d4e97ga634g07c0gc480g8c10b1f3ebb5" version="1">CS Body - Decor B - Amethyst</content>
+  <content contentuid="h92b982b4g63bbg78c8g9b61gbf8520e6d46b" version="1">CS Body - Decor B - Blue-Yellow Topaz</content>
+  <content contentuid="hec4d8948gc25agd340gf4d1g409228912b30" version="1">CS Body - Decor C - Ice</content>
+  <content contentuid="h4acb00fdg6f8ag45d9g72deg02703b9c14e5" version="1">CS Body Decor C - Obsidian</content>
+  <content contentuid="h539b51b3g2b44g8349g60b2gb753c69699dc" version="1">CS Body - Decor C - Sapphire</content>
+  <content contentuid="hc46ed673ga185gb338g6d9fg778b039cc539" version="1">CS Body - Decor C - Emerald</content>
+  <content contentuid="hc87db026g1ffcg6cefg8177g95f9f5b221a2" version="1">CS Body - Decor C - Honey Topaz</content>
+  <content contentuid="h8e59b1fcga089g32ebg6ffeg844549207403" version="1">CS Body - Decor C - Ruby</content>
+  <content contentuid="h2ba3b4ddg6887gfe40ge965g27d6560e09e3" version="1">CS Body - Decor C - Amethyst</content>
+  <content contentuid="h0d4425d3g6b55gddc0gbc5egc348f645820a" version="1">CS Body - Decor C - Blue-Yellow Topaz</content>
+  <content contentuid="hce47aff9gdf81g62b8g8b7dg9ac943747822" version="1">CS Body - Decor D -  Light Blue</content>
+  <content contentuid="h598f6f8dgd2eagee90g8f31gb029c47c3f1c" version="1">CS Body - Decor D - Dark Purple</content>
+  <content contentuid="h05475c6egb851gd013g86a7gdee0a93ceb89" version="1">CS Body - Decor D - Blue</content>
+  <content contentuid="h8a8c1da4gb35bg98e8g0c7ag956bc0ff921e" version="1">CS Body - Decor D - Green</content>
+  <content contentuid="h50c98840gae98g7397gc814gf45bbe9f9f92" version="1">CS Body - Decor D - Orange</content>
+  <content contentuid="h8c7a66dbg5c75g8393g50b0gca8c4df61ac7" version="1">CS Body - Decor D - Red</content>
+  <content contentuid="h237fd08fg7eddg7423g99cdgdd4cde2be705" version="1">CS Body - Decor D - Pink</content>
+  <content contentuid="h476cb789ge056g37fcgdefag55f75e71c747" version="1">CS Body - Decor D - Blue-Yellow</content>
+  <content contentuid="h8ea886degd9b3g8af1g63e8g280125d8fa1f" version="1">CS Body - Decor E - Ice</content>
+  <content contentuid="hcd3f710eg6465gab72g4866g1b2da68d4f16" version="1">CS Body - Decor E - Obsidian</content>
+  <content contentuid="h6dc422a7g0011g980bg713cg95b59921bfec" version="1">CS Body - Decor E - Sapphire</content>
+  <content contentuid="hc0b5f375g50e4g117dg409agb5d3c83d8ab0" version="1">CS Body - Decor E - Emerald</content>
+  <content contentuid="h959bf472g3925g9fe9g432cg9787dd8f11e2" version="1">CS Body - Decor E - Honey Topaz</content>
+  <content contentuid="h19d1cf7eg59f2g8585gd06cg1d360a30e498" version="1">CS Body - Decor E - Ruby</content>
+  <content contentuid="h4ed2ffd8gd565g8d08g3f7dg6fcc4c1b32d9" version="1">CS Body - Decor E - Amethyst</content>
+  <content contentuid="h8b086ccfg44eagcf59gf75ag1383be6ebfb7" version="1">CS Body - Decor E - Blue-Yellow Topaz</content>
+  <content contentuid="h65fb8006g4988g874dgee13g0ad4ac285522" version="1">CS Body - Decor F - Ice</content>
+  <content contentuid="h28283e55gdd6dg106eg4737gf5fe38260a14" version="1">CS Body - Decor F - Obsidian</content>
+  <content contentuid="h21de4dbbgb32egf5dagf38dg718ce14ee503" version="1">CS Body - Decor F - Sapphire</content>
+  <content contentuid="hbb093d6bga73eg54dcgf1a4g6f13294cc773" version="1">CS Body - Decor F - Emerald</content>
+  <content contentuid="h194dbe29g2038g9ddcga8e8ga78d223ef424" version="1">CS Body  - Decor F - Honey Topaz</content>
+  <content contentuid="h1863fe56g8e31g1bfeg9779g8b80b7423735" version="1">CS Body - Decor F - Ruby</content>
+  <content contentuid="he544da5cg8dedgd765g0fb5g488a6a7eef77" version="1">CS Body Decor F - Amethyst</content>
+  <content contentuid="hbf62dca0gcc53gae58g81d1g1f86bd33c5da" version="1">CS Body - Decor F - Blue-Yellow Topaz</content>
+  <content contentuid="he9010048gb4c6gd627g9b39gc9ca5367b376" version="1">CS Body - Decor G - Ice</content>
+  <content contentuid="h9e740bc2gaf36g7ffag8259gfde1bfd198a7" version="1">CS Body - Decor G - Obsidian</content>
+  <content contentuid="hc598e0f1g4bc2ge768g7b58g04ae8cc1c2aa" version="1">CS Body - Decor G - Sapphire</content>
+  <content contentuid="h08816cecgdc50g46f9g4a53gc8e1dba2f10c" version="1">CS Body  - Decor G - Emerald</content>
+  <content contentuid="hbbf76766g7583g4ec3ga624gddb6c2d5eb61" version="1">CS Body - Decor G - Honey Topaz</content>
+  <content contentuid="h8a14ff9bg3eb0g97cfg4c64g48a8f8f201fa" version="1">CS Body - Decor G - Ruby</content>
+  <content contentuid="h32d303d1gc3d7g1525g6346g83155ab15bba" version="1">CS Body - Decor G - Amethyst</content>
+  <content contentuid="habbad769g50f4g5b69g2bcbg04fdf9e401fe" version="1">CS Body - Decor G - Blue-Yellow Topaz</content>
+  <content contentuid="ha29c6f8cg7afcg2c3dg7784g992069060295" version="1">CS Body - Decor I - Ice</content>
+  <content contentuid="hf0f19effg4561g6054g5071g069bc2b9a401" version="1">CS Body - Decor I - Obsidian</content>
+  <content contentuid="hc4a6b53ag18b7g3958g63a3g791c338a3a0a" version="1">CS Body  - Decor I - Sapphire</content>
+  <content contentuid="h7fcd804cg0122gb409gc397g54269541cec9" version="1">CS Body - Decor I - Emerald</content>
+  <content contentuid="h74a77025g4781g82feg4bbdg10ef1e2fe73b" version="1">CS Body - Decor I - Honey Topaz</content>
+  <content contentuid="h7c15a0cbg6d08g1315gce97gee26894d8641" version="1">CS Body - Decor I - Ruby</content>
+  <content contentuid="hdd4abce8g7c99g7d2bgf7aeg164dd5a9da63" version="1">CS Body - Decor I - Amethyst</content>
+  <content contentuid="hdbf6bdf4g91f3g8dd0gf1b7gfbf8237e25e4" version="1">CS Body - Decor I - Blue-Yellow Topaz</content>
+  <content contentuid="ha01b399dg6f38g5e71gf6e5gc79604a5cc73" version="1">CS Body - Decor J - Ice</content>
+  <content contentuid="he0186ae8g1f45ga06ag5559g2ba0d5022ffa" version="1">CS Body - Decor J - Obsidian</content>
+  <content contentuid="hdf53d65bgc252g6467g830bg344070640597" version="1">CS Body - Decor J - Sapphire</content>
+  <content contentuid="h4ab850d6g6144g1e07g3edbg2a7d5323d456" version="1">CS Body Decor J - Emerald</content>
+  <content contentuid="h8094dff2g3673g2ef2gfd08ge49c9f7dcfeb" version="1">CS Body - Decor J - Honey Topaz</content>
+  <content contentuid="h7925e03bg6a04g5abbg0a1bg086355333f6b" version="1">CS Body - Decor J - Ruby</content>
+  <content contentuid="hd774ca2cga23egde76g7aadg5da740d2a98c" version="1">CS Body - Decor J - Amethyst</content>
+  <content contentuid="hd319b9efg8028gc39cg650ega5a2ff1470df" version="1">CS Body - Decor J - Blue-Yellow Topaz</content>
+  <content contentuid="h16634adcgf826g66f9g1975g85ecb24e19a8" version="1">CS Body - Dots A - Ice</content>
+  <content contentuid="hb45f8a44g2325gcbc6g6958g559eb2f3c7b8" version="1">CS Body - Dots A- Obsidian</content>
+  <content contentuid="h8049806cgfd43g0967g0ecfge388f7ef4c0a" version="1">CS Body - Dots A - Sapphire</content>
+  <content contentuid="h8916f8efg0076g5f47gfd9bg9cc47fbab831" version="1">CS Body - Dots A - Emerald</content>
+  <content contentuid="h48a997a6g78feg378ag9923g2f471e03774c" version="1">CS Body - Dots A - Honey Topaz</content>
+  <content contentuid="h68aff580g42e6gbc5dg8885gc0a452faa7d8" version="1">CS Body - Dots A - Ruby</content>
+  <content contentuid="ha60adeb1g110egeaeagc461g8190d9c675d0" version="1">CS Body - Dots A -  Amethyst</content>
+  <content contentuid="h4a22f9b8g0a65gf68dg3a15g5ea4be0b37b6" version="1">CS Body - Dots A - Blue-Yellow Topaz</content>
+  <content contentuid="hf0026127g04c6geb43g6d7dgcca4965adee7" version="1">CS Body - Dots B - Light Blue</content>
+  <content contentuid="h35aeeeddg7ca1g1cf1gc241g1f891ef0283b" version="1">CS Body - Dots B- Deep Purple</content>
+  <content contentuid="hb5087f62g6a8fg5707g4f60g2ed9e88bc077" version="1">CS Body - Dots B - Blue</content>
+  <content contentuid="h9ecd9694g3b8egc328gbe1fg6884e8b6e7c6" version="1">CS Body - Dots B - Green</content>
+  <content contentuid="h82a2cf1dgccacg9688gb088g74f353898ed6" version="1">CS Body - Dots B - Orange</content>
+  <content contentuid="h199bc074g62dcgcd02g17d4g3abb073d35c1" version="1">CS Body - Dots B - Red</content>
+  <content contentuid="hae599470gb3bbgdd8fg471ag21f4d6e62d02" version="1">CS Body - Dots B -  Pink</content>
+  <content contentuid="h52d9f9cdg454fg5609g5513gb55380f187b2" version="1">CS Body - Dots B - Blue-Yellow</content>
+  <content contentuid="h35a7335dg3026ge5c7g1658g475099198216" version="1">CS Body Glow - Karlach Heart - Blue-Green</content>
+  <content contentuid="hf434771dg96d5gfda3g1d88g60f7e2740ef7" version="1">CS Body Glow - Karlach Heart - Purple</content>
+  <content contentuid="ha1e5be28g4244gf512g3f9ag5dbef61d329a" version="1">CS Body Glow - Karlach Heart - Blue</content>
+  <content contentuid="h64a7df30g9038gbb0fg62b8g23b2392ace08" version="1">CS Body Glow - Karlach Heart - Green</content>
+  <content contentuid="h9c995574ga061g99fegd269g6175b540adad" version="1">CS Body Glow - Karlach Heart - Fire</content>
+  <content contentuid="h7220abecgee1egf05agd792g0b380494cd61" version="1">CS Body Glow - Karlach Heart - Red</content>
+  <content contentuid="hfc7fbd2fg4c6dgfc9cg66bfg217cd0c6f6f2" version="1">CS Body Glow - Karlach Heart - Pink</content>
+  <content contentuid="hb6a39657g21dag7ce1g2fddgf2a66b4842d6" version="1">CS Body Glow - Karlach Heart - White</content>
+  <content contentuid="h3d93be85gea08gb28eg4f79g90610851ec4f" version="1">CS Body - Decor A - Ice</content>
+  <content contentuid="hba20ef7fgf239gf5e8gb498g42fb664078c1" version="1">CS Body - Decor A - Obsidian</content>
+  <content contentuid="h2ac9043cgf65bg6721ge17ega2b179061e20" version="1">CS Body - Decor A - Sapphire</content>
+  <content contentuid="h1d0972b9g2866g1faagaf2bg927ab92ad115" version="1">CS Body - Decor A - Emerald</content>
+  <content contentuid="hbc0cac15ged5fg00f9g1aabg0d27388da3f6" version="1">CS Body - Decor A - Honey Topaz</content>
+  <content contentuid="h7b6feeabge814g2720g4711g8b6aa4149c9d" version="1">Clawstep Body - Decor A - Ruby</content>
+  <content contentuid="h0f34ae01g46b1g05a2g5b3bgda9d6b8526b9" version="1">Clawstep Body - Decor A - Amethyst</content>
+  <content contentuid="hb6b4ee9bg195ag1118g3715g7bccd751e134" version="1">Clawstep Body - Decor A - Blue-Yellow Topaz</content>
+  <content contentuid="hd02497b0gc9e5gacf3g6c8dg2693613e3c47" version="1">CS Body - Decor B - Ice</content>
+  <content contentuid="h2a790f3bg0e43gf470g1879g460382e10c08" version="1">CS Body - Decor B - Obsidian</content>
+  <content contentuid="he09fc905g3a88g8243gf03dg0de4c75a256d" version="1">CS Body - Decor B - Sapphire</content>
+  <content contentuid="hb164f926ga78ag83dfg9e87g4c84ef554580" version="1">CS Body - Decor B - Emerald</content>
+  <content contentuid="h21286702g0befg1996g7223g40ae5b8a7655" version="1">CS Body - Decor B - Honey Topaz</content>
+  <content contentuid="ha3a38831g1cd2g36c6gd353g27f48eb0c4f2" version="1">CS Body - Decor B - Ruby</content>
+  <content contentuid="hf7da9219g98b3g5872g9e5eg27d22a193e8f" version="1">CS Body - Decor B - Amethyst</content>
+  <content contentuid="hc9ffb01cged7cg4a60g82fegb0fdd214fd85" version="1">CS Body - Decor B - Blue-Yellow Topaz</content>
+  <content contentuid="h2fa2f634gbb4bg1f52g7727g88dc4b64350b" version="1">CS Body - Decor C - Ice</content>
+  <content contentuid="h59caa3f7g581ag34bage9bagf931c3a1fa22" version="1">CS Body Decor C - Obsidian</content>
+  <content contentuid="h6dcd63a8g05a2g1f07gbeb0gcbd9f8ed2eaa" version="1">CS Body - Decor C - Sapphire</content>
+  <content contentuid="h197095c2gba9ag4454g4b42g8e61b83d7eb3" version="1">CS Body - Decor C - Emerald</content>
+  <content contentuid="h13125605g0708g943aga6a2g6d4790682f8a" version="1">CS Body - Decor C - Honey Topaz</content>
+  <content contentuid="h167c66d8g8f1eg4b6fgdc4dgfe3701e6ddff" version="1">CS Body - Decor C - Ruby</content>
+  <content contentuid="h9aa9a64bg43b6gc8e8g18f3g22319eeaa848" version="1">CS Body - Decor C - Amethyst</content>
+  <content contentuid="hdf5e537dge45bge628g87bcg6153ebb6e70b" version="1">CS Body - Decor C - Blue-Yellow Topaz</content>
+  <content contentuid="h146c33b3g905fg6d74gb1a8gae8621bdc2fe" version="1">CS Body - Decor D -  Light Blue</content>
+  <content contentuid="h905a960egdc55g5569g98a3gd362012c6b61" version="1">CS Body - Decor D - Dark Purple</content>
+  <content contentuid="h6c4954dbg069bg247eg4996g238617633657" version="1">CS Body - Decor D - Blue</content>
+  <content contentuid="hc6786f02gce5cg9a62g8fe0gb936aea17c0a" version="1">CS Body - Decor D - Green</content>
+  <content contentuid="he1a8dcd4g7639g504bg9b5eg04b5cb84bb29" version="1">CS Body - Decor D - Orange</content>
+  <content contentuid="hc1ca22b4g03begf59ag59c8gae07b182b57d" version="1">CS Body - Decor D - Red</content>
+  <content contentuid="hb748be5egc611gff43gdd10g44bad73b1246" version="1">CS Body - Decor D - Pink</content>
+  <content contentuid="hbc57ba9bg7247gfc29g4632g3991a6c61318" version="1">CS Body - Decor D - Blue-Yellow</content>
+  <content contentuid="hf509c3a5g2f1eg8164g65f1ga7a4420d9be8" version="1">CS Body - Decor E - Ice</content>
+  <content contentuid="h1fb819a3g9c80gcdc1gb354g42879a4617e8" version="1">CS Body - Decor E - Obsidian</content>
+  <content contentuid="h49db8bffg7944g6531g6d8dge8b08caa9d5a" version="1">CS Body - Decor E - Sapphire</content>
+  <content contentuid="h401e545dg7b79gd103g9408gf23d5599fcc8" version="1">CS Body - Decor E - Emerald</content>
+  <content contentuid="h9578bd04ge0cag354ega353g60b8b2c70607" version="1">CS Body - Decor E - Honey Topaz</content>
+  <content contentuid="he9996ac3gd018gcd25g9ee0g5d34e2d4b106" version="1">CS Body - Decor E - Ruby</content>
+  <content contentuid="had42f510g6d6cg4d49g5156g0cc4eea6f6f9" version="1">CS Body - Decor E - Amethyst</content>
+  <content contentuid="hbbaf5d59g3a45g61f8g0436g5875d1824373" version="1">CS Body - Decor E - Blue-Yellow Topaz</content>
+  <content contentuid="he57d4198g0bc6g2dfeg9c3bg551bd662def2" version="1">CS Body - Decor F - Ice</content>
+  <content contentuid="h8c41aa20g993eg1f98gc818gf7cb64d946a5" version="1">CS Body - Decor F - Obsidian</content>
+  <content contentuid="hea3dd15dg01a9g90dcgb590ga9cee09b8f08" version="1">CS Body - Decor F - Sapphire</content>
+  <content contentuid="h79c59986g18f1gc682g374bge8253bd8cb9c" version="1">CS Body - Decor F - Emerald</content>
+  <content contentuid="h10ddfc39ged46g43c9gabd4g5b53cf30ed56" version="1">CS Body  - Decor F - Honey Topaz</content>
+  <content contentuid="hd2e1b6c6g1a7cga7ecgd2d0gdd4115e49504" version="1">CS Body - Decor F - Ruby</content>
+  <content contentuid="he3288138g53fcg0648g85c9ged9cc95f4141" version="1">CS Body Decor F - Amethyst</content>
+  <content contentuid="h6b0893bbg2781g2a33gbd3fgd77fc11ca232" version="1">CS Body - Decor F - Blue-Yellow Topaz</content>
+  <content contentuid="h72a272c9gcd13gbcf1g5be2ged842668f574" version="1">CS Body - Decor G - Ice</content>
+  <content contentuid="h0dc3f688g5fe8gb49eg811eg5ab5abbe4fa4" version="1">CS Body - Decor G - Obsidian</content>
+  <content contentuid="h52f140d2ga9e1g4535g92d1g85bf7a86b68e" version="1">CS Body - Decor G - Sapphire</content>
+  <content contentuid="h0cbbb2aeg3a20g2cc9gbec3g58b92338a942" version="1">CS Body  - Decor G - Emerald</content>
+  <content contentuid="hd04bb240g9c00g9664g687dgcfc94d83a551" version="1">CS Body - Decor G - Honey Topaz</content>
+  <content contentuid="he034871bg3672g859bgc429gde3c8f7033b7" version="1">CS Body - Decor G - Ruby</content>
+  <content contentuid="h02ddc857gf590g4570gb9c2ga2f9cdb50c9e" version="1">CS Body - Decor G - Amethyst</content>
+  <content contentuid="haa21797dg631egd438g7d4bg22409a526e6b" version="1">CS Body - Decor G - Blue-Yellow Topaz</content>
+  <content contentuid="h6c33ec5fgcf5dg19e9gb572gbe9bc9f21a7c" version="1">CS Body - Decor I - Ice</content>
+  <content contentuid="hd0c36556g23ecgf940g1f80g253a1e3759f6" version="1">CS Body - Decor I - Obsidian</content>
+  <content contentuid="h68b28760g40ecg2313gcd4bga2114c3fbf17" version="1">CS Body  - Decor I - Sapphire</content>
+  <content contentuid="h9accbe2cgdb3cg1e5cgf938gc832fd77cfa3" version="1">CS Body - Decor I - Emerald</content>
+  <content contentuid="ha06efb1bg6adbg9cf0ge9acge4dd79b4518b" version="1">CS Body - Decor I - Honey Topaz</content>
+  <content contentuid="h731db100gf24eg430fged83gfb5e51624a6e" version="1">CS Body - Decor I - Ruby</content>
+  <content contentuid="h948ca3c8g012cg90edg4891g451a8814bbc6" version="1">CS Body - Decor I - Amethyst</content>
+  <content contentuid="h785b7ac3g4e1fga870g237dg63023ab4e30f" version="1">CS Body - Decor I - Blue-Yellow Topaz</content>
+  <content contentuid="h0b8e446bge6bbgc3d3g232bg033b10558f52" version="1">CS Body - Decor J - Ice</content>
+  <content contentuid="h8edeeeecg0382g433egfa4agd86699b38fd6" version="1">CS Body - Decor J - Obsidian</content>
+  <content contentuid="hdb78d0b2ge746g331bgef36gd49de58dba3c" version="1">CS Body - Decor J - Sapphire</content>
+  <content contentuid="h904364a4g0f7dgf5d0g29f2g738e85e3239c" version="1">CS Body Decor J - Emerald</content>
+  <content contentuid="h557f859egaa0eg9a73gc78dgaae08df76511" version="1">CS Body - Decor J - Honey Topaz</content>
+  <content contentuid="h141a4041g1bb9g21a0gd38cg445b7850af83" version="1">CS Body - Decor J - Ruby</content>
+  <content contentuid="h817651f6gbd85g16a1g7e2bgbc9ef34f51a4" version="1">CS Body - Decor J - Amethyst</content>
+  <content contentuid="h8ee55fa9g8050g12b7ge2bega1e41f1bfd98" version="1">CS Body - Decor J - Blue-Yellow Topaz</content>
+  <content contentuid="h4b27a6fbgd8c3g980eg8ef1gaf1ae54e942d" version="1">CS Body - Dots H - Ice</content>
+  <content contentuid="h6228d9begee0egd4f3g5034gcb198d8191ee" version="1">CS Body - Dots H- Obsidian</content>
+  <content contentuid="hca9ab420gadcegdc35g055ag5e65526e9ecf" version="1">CS Body - Dots H - Sapphire</content>
+  <content contentuid="hca780a79g0596g4304g1079g0e7a51d3d228" version="1">CS Body - Dots H - Emerald</content>
+  <content contentuid="hcedc16f9g8a40g62e3g2003g535e3bea412e" version="1">CS Body - Dots H - Honey Topaz</content>
+  <content contentuid="ha340864dg64eag62bcgfca7g6527e56a33f1" version="1">CS Body - Dots H - Ruby</content>
+  <content contentuid="hd9cf8fbag5bd4g0ae0g5ea5ge23ecd5d9e9f" version="1">CS Body - Dots H -  Amethyst</content>
+  <content contentuid="hf73c575eg7833g0b81g7fa2g5dccd1fc6075" version="1">CS Body - Dots H - Blue-Yellow Topaz</content>
+  <content contentuid="h3ecc436cgc3a9gd408g06edgddb2a11dbbe2" version="1">CS Body - Dots H - Ice</content>
+  <content contentuid="h392ecdffgc246g0a20g09b3ge540cb7c43a5" version="1">CS Body - Dots H- Obsidian</content>
+  <content contentuid="hfc635e9fg525cgeff7g9447gbd1e821d7297" version="1">CS Body - Dots H - Sapphire</content>
+  <content contentuid="h1de23b34gda05g2029g4cf9gb58de0efd067" version="1">CS Body - Dots H - Emerald</content>
+  <content contentuid="h066590c0g4c45g95aege1c7g4ff11f77919e" version="1">CS Body - Dots H - Honey Topaz</content>
+  <content contentuid="h148337a2gf40dg380bg834ag8c87965416ff" version="1">CS Body - Dots H - Ruby</content>
+  <content contentuid="h029d2b9fgde0bg2990geb1eg3cefacfe60b4" version="1">CS Body - Dots H -  Amethyst</content>
+  <content contentuid="h8c12e6d6gc24ag5e09gd77dgefa8883a2746" version="1">CS Body - Dots H - Blue-Yellow Topaz</content>
+  <content contentuid="hbabeac9eg588dgc323gfae3ge84eec927241" version="1">CS Body - Decor J - Blue-Yellow Topaz</content>
+  <content contentuid="h6059078dg2822gf0edgce6fg06484ccb6041" version="1">CS Body - Decor J - Amethyst</content>
+  <content contentuid="h84970925g8beeg0a6eg82dcgc7055bd93038" version="1">CS Body - Decor J - Ruby</content>
+  <content contentuid="h439d1aafg4a1bg74c7g19f1g2b1466d0e56e" version="1">CS Body - Decor J - Honey Topaz</content>
+  <content contentuid="h871ab330g8612g51b3g932fg96ada7e70d19" version="1">CS Body Decor J - Emerald</content>
+  <content contentuid="hd1bc85bag2526g40ccg0d00g029636e3dddf" version="1">CS Body - Decor J - Sapphire</content>
+  <content contentuid="h74306194g11f7g0d4dg6150gb0fb8573bd66" version="1">CS Body - Decor J - Obsidian</content>
+  <content contentuid="ha9712c78g4c26gcc72gacecgf86c0692fe67" version="1">CS Body - Decor J - Ice</content>
+  <content contentuid="h89f3976eg6628g41cfgfc7dg685ee354a942" version="1">CS Body - Decor I - Blue-Yellow Topaz</content>
+  <content contentuid="h414ba018g1deeg8a0eg32c1g26b93233d949" version="1">CS Body - Decor I - Amethyst</content>
+  <content contentuid="hd851bdb9gb2fag839cg1415gff74b96c95bb" version="1">CS Body - Decor I - Ruby</content>
+  <content contentuid="hd32a2348g35bbg50edg9307g261eb87f17f2" version="1">CS Body - Decor I - Honey Topaz</content>
+  <content contentuid="h2f87ad21gdcd0g0d77g38d5gcb4e6ccb9543" version="1">CS Body - Decor I - Emerald</content>
+  <content contentuid="hdee0b5dcge591g0ffbg1480g692109f399ce" version="1">CS Body  - Decor I - Sapphire</content>
+  <content contentuid="hbc608b92g5da1g65b4g2656g7b5774686b4c" version="1">CS Body - Decor I - Obsidian</content>
+  <content contentuid="h081fb875geea9ga14fg03fbg66a77c5a64ea" version="1">CS Body - Decor I - Ice</content>
+  <content contentuid="h5968fe03g74c7gd09fg7f30g6822afab7ee9" version="1">CS Body - Decor G - Blue-Yellow Topaz</content>
+  <content contentuid="hfa9cda81gd1d0ge0abg2a8dg294d5904c53c" version="1">CS Body - Decor G - Amethyst</content>
+  <content contentuid="h6b4d8bb9g2964g551fgf41eg931302f76232" version="1">CS Body - Decor G - Ruby</content>
+  <content contentuid="h0de75d68gad9fg19a6gb929g7fc0f72207e1" version="1">CS Body - Decor G - Honey Topaz</content>
+  <content contentuid="h99e50469g4a0ag335bge9c4gedc7aa44f86c" version="1">CS Body  - Decor G - Emerald</content>
+  <content contentuid="h86159224gaa2fg6ec7g00aagd211742eef91" version="1">CS Body - Decor G - Sapphire</content>
+  <content contentuid="hf18555ffg62f7g5ef6g51ccg07df3878ad71" version="1">CS Body - Decor G - Obsidian</content>
+  <content contentuid="h9ce99ab0g44cagd7e2gd4b0g97e0f09b1258" version="1">CS Body - Decor G - Ice</content>
+  <content contentuid="hba4070e3ge375gef3dg9804g144b4cdf485c" version="1">CS Body - Decor F - Blue-Yellow Topaz</content>
+  <content contentuid="h7b44316ag60eegfa0bga47ag46e7995ba832" version="1">CS Body Decor F - Amethyst</content>
+  <content contentuid="h736905d2g6dbfgff22gbdc7g0fb3bdb427b0" version="1">CS Body - Decor F - Ruby</content>
+  <content contentuid="he8456031g9aaag89b5g3b12gfb109ee4806a" version="1">CS Body  - Decor F - Honey Topaz</content>
+  <content contentuid="h468bf75dgc405g2f31ga4e1g2fd4f03daaa1" version="1">CS Body - Decor F - Emerald</content>
+  <content contentuid="hcb158957gd31cgebcagb2e6gb67bde34b434" version="1">CS Body - Decor F - Sapphire</content>
+  <content contentuid="hfe6cf6afgd3eeg53a7gfdfdge0d709dcb6b4" version="1">CS Body - Decor F - Obsidian</content>
+  <content contentuid="h90ebc048g5336gb617g4691g8a7736ec3398" version="1">CS Body - Decor F - Ice</content>
+  <content contentuid="h5fa29dd0gc2deg0f6egae8ag783cb7d592c7" version="1">CS Body - Decor E - Blue-Yellow Topaz</content>
+  <content contentuid="h0222843eg1c5eg2f89ga31egae6318d7327b" version="1">CS Body - Decor E - Amethyst</content>
+  <content contentuid="haf92254bgc678g4b7ag75c5g3ec59478ca70" version="1">CS Body - Decor E - Ruby</content>
+  <content contentuid="hb35d8997g775bgd076gacb5g6cbba43b9179" version="1">CS Body - Decor E - Honey Topaz</content>
+  <content contentuid="haaaf41e7gd7f8g3fbdg858cge89835ed3d13" version="1">CS Body - Decor E - Emerald</content>
+  <content contentuid="hda94d0c9geb97gac70g5a2bg78d5974139c2" version="1">CS Body - Decor E - Sapphire</content>
+  <content contentuid="hcc4e0aceg527fg5310g5d3bgfb69b0130d84" version="1">CS Body - Decor E - Obsidian</content>
+  <content contentuid="hfc52a37bg4812g85d0gc78eg0abf304ab6d8" version="1">CS Body - Decor E - Ice</content>
+  <content contentuid="h0c1d0a5cge5bdgb7e8gab2cg1f09b8f5777a" version="1">CS Body - Decor D - Blue-Yellow</content>
+  <content contentuid="hfa5e98e3g4472g339bg0e74gd0a9e4af7621" version="1">CS Body - Decor D - Pink</content>
+  <content contentuid="h55d88acagbf78gb38dga2c2g3bd32d6077d0" version="1">CS Body - Decor D - Red</content>
+  <content contentuid="hbc4dd68cga86dgec65gb48eg17be6cce77dc" version="1">CS Body - Decor D - Orange</content>
+  <content contentuid="hee7286d4g4163gd873g11f1g1bb4f1e71167" version="1">CS Body - Decor D - Green</content>
+  <content contentuid="h6d2c5840ga4efg83f9g66acg1573dc691da6" version="1">CS Body - Decor D - Blue</content>
+  <content contentuid="h668eb9c1ge54bg9fc0g4633g8daecc4c8d25" version="1">CS Body - Decor D - Dark Purple</content>
+  <content contentuid="hc3fd1428g0b09g6ff3g5715gb6a7ecae912c" version="1">CS Body - Decor D -  Light Blue</content>
+  <content contentuid="hc00c662fgbf8ag710eg9b0bgdf6236045413" version="1">CS Body - Decor C - Blue-Yellow Topaz</content>
+  <content contentuid="h5f88a98bg6a73g494bg1acdgcacbdb84662a" version="1">CS Body - Decor C - Amethyst</content>
+  <content contentuid="hdfdfebccg24f4g859ege161gae7edec2302b" version="1">CS Body - Decor C - Ruby</content>
+  <content contentuid="h212a9660g7e4cg7413gf601g4fd66b2a46fc" version="1">CS Body - Decor C - Honey Topaz</content>
+  <content contentuid="hbf896bfdgec16g2f44g1d48gdf7bfa41e24d" version="1">CS Body - Decor C - Emerald</content>
+  <content contentuid="h32a4480dg6683gd9b5g161fgc284f05ff841" version="1">CS Body - Decor C - Sapphire</content>
+  <content contentuid="h1a730eb0gb48eg7ac4g1a4cg1fbcf5681db3" version="1">CS Body Decor C - Obsidian</content>
+  <content contentuid="hf1c347e7g4cf8ged59gab1agfb1ed212249d" version="1">CS Body - Decor C - Ice</content>
+  <content contentuid="h8e1f4d05ge368g3b05g4ca2g18eca145b58e" version="1">CS Body - Decor B - Blue-Yellow Topaz</content>
+  <content contentuid="h471753f9g14b0ga927geab5gb679f8141328" version="1">CS Body - Decor B - Amethyst</content>
+  <content contentuid="ha5c3ba06g6c57g27e4g53a1g28ebdc871cd4" version="1">CS Body - Decor B - Ruby</content>
+  <content contentuid="h3131c7f5g61cage33fg6b20geddd94e7fdc9" version="1">CS Body - Decor B - Honey Topaz</content>
+  <content contentuid="hc669b0c8gcb77g8924g4833g4af421c85636" version="1">CS Body - Decor B - Emerald</content>
+  <content contentuid="hd7691987gd1b5gc435g4effg8f7b0fa64d56" version="1">CS Body - Decor B - Sapphire</content>
+  <content contentuid="h37f0ebf0ge99cgf4b0g8b7ag357af842f44f" version="1">CS Body - Decor B - Obsidian</content>
+  <content contentuid="h9d0461a9gba28gbf5fg82bbgf8ce5599d37f" version="1">CS Body - Decor B - Ice</content>
+  <content contentuid="h379aa64fg61d1g4ca0g351ag4c7f28f626a1" version="1">Clawstep Body - Decor A - Blue-Yellow Topaz</content>
+  <content contentuid="h476241e4gac3dgd067ga9e6g8a5e73851569" version="1">Clawstep Body - Decor A - Amethyst</content>
+  <content contentuid="h4a576858g7fd7g2b43gcbceg5d2ec8649401" version="1">Clawstep Body - Decor A - Ruby</content>
+  <content contentuid="h4ce3ff69g355eg2730g2c49g9f272f7ed974" version="1">CS Body - Decor A - Honey Topaz</content>
+  <content contentuid="h037bb5ceg7c2bgfa4fg9d10gc04d3aa6871b" version="1">CS Body - Decor A - Emerald</content>
+  <content contentuid="hc4e6ff72g94d0g0098g7f9bg01dd964101a4" version="1">CS Body - Decor A - Sapphire</content>
+  <content contentuid="h4ab1247agd468gd653g17bbg0976a3a84f37" version="1">CS Body - Decor A - Obsidian</content>
+  <content contentuid="hfe9e6c32g295cg11a2gbab1g8fca34ab8208" version="1">CS Body - Decor A - Ice</content>
+  <content contentuid="hd4c61b25gd7b0g1f4fg1a42gaa387506f4c0" version="1">CS Body Glow - Karlach Heart - White</content>
+  <content contentuid="h4208ac34gda6bg5212g400ag49f329169ace" version="1">CS Body Glow - Karlach Heart - Pink</content>
+  <content contentuid="hc44aaf08g173cg1c97gae6cg9d17af1680af" version="1">CS Body Glow - Karlach Heart - Red</content>
+  <content contentuid="hb8f5f2aega3c6g3cf9g7f65g614d6ee63c3e" version="1">CS Body Glow - Karlach Heart - Fire</content>
+  <content contentuid="h0de9cd85gdf12g4e09g4d41gcdfd6e275fc0" version="1">CS Body Glow - Karlach Heart - Green</content>
+  <content contentuid="hde8802c7gd4afgc5e8g1eb6gedb46e13e67e" version="1">CS Body Glow - Karlach Heart - Blue</content>
+  <content contentuid="h9bcb1f9bg5c56g6f7dgfddfgd454d9a8a79a" version="1">CS Body Glow - Karlach Heart - Purple</content>
+  <content contentuid="h6c2e1316ga402gb144g5815g69d6404e355f" version="1">CS Body Glow - Karlach Heart - Blue-Green</content>
+  <content contentuid="h191f82f0g2d0dg4a7agf970g0c0df8067683" version="1">CS Body - Dots B - Blue-Yellow</content>
+  <content contentuid="h53b1e449gf2f6gb577ge070gef0011429b0f" version="1">CS Body - Dots B -  Pink</content>
+  <content contentuid="ha53f23b3g054eg8c34gb85fg74f1389638e5" version="1">CS Body - Dots B - Red</content>
+  <content contentuid="he7172fc3g3f71ge037gaa4bgeef37f3388d9" version="1">CS Body - Dots B - Orange</content>
+  <content contentuid="he529f166gb1fcg7110g40c8gb8d91baa67bd" version="1">CS Body - Dots B - Green</content>
+  <content contentuid="h19af283agb755g3256g1616g20b06b1b181e" version="1">CS Body - Dots B - Blue</content>
+  <content contentuid="h9c541105g87f7g25aag1af3g76d2e0e447cd" version="1">CS Body - Dots B- Deep Purple</content>
+  <content contentuid="hd56eb132g51ceg51b7g2f1egdba9b7eddbab" version="1">CS Body - Dots B - Light Blue</content>
+  <content contentuid="h60a04ffegdb26g9833gc0ecgdad48b288f0d" version="1">CS Body - Dots A - Blue-Yellow Topaz</content>
+  <content contentuid="h449ab6f7gaba6gd2d7gc2fbg3afc9cc5fd79" version="1">CS Body - Dots A -  Amethyst</content>
+  <content contentuid="h8700ff7cg756dg2d41g6ad6gf21e701afc83" version="1">CS Body - Dots A - Ruby</content>
+  <content contentuid="haa3b4289gca2cgfe0eg78f5gce5ab6c31d64" version="1">CS Body - Dots A - Honey Topaz</content>
+  <content contentuid="h9c2d9168geff5g1c8ag3b6fg012ea05b9154" version="1">CS Body - Dots A - Emerald</content>
+  <content contentuid="h5d5d9e56g102cg7aafg7b2dg0c56fa17c76e" version="1">CS Body - Dots A - Sapphire</content>
+  <content contentuid="h01c5ebc9g7d18g4885g7f08g1adfbff66af3" version="1">CS Body - Dots A- Obsidian</content>
+  <content contentuid="hb023d411g89eag494eg1152gc325fd491f75" version="1">CS Body - Dots A - Ice</content>
+  <content contentuid="h3b5363d7g6ed0g30ffgf001gfb22106b94ec" version="1">CS Tail A - Decor I - Blue-Yellow Topaz</content>
+  <content contentuid="h08c88e98gfeeeg5a76g495ag31ec9108e61d" version="1">CS Tail A - Decor I - Amethyst</content>
+  <content contentuid="h07b68f58g8d87gf700geaf1g59b651cf31de" version="1">CS Tail A - Decor I - Ruby</content>
+  <content contentuid="h923e81d4g09b1g50d2g9805gdbe256618f09" version="1">CS Tail A - Decor I - Honey Topaz</content>
+  <content contentuid="h8d939fddg3d84ge7adg1514gfaecee5c212b" version="1">CS Tail A - Decor I - Emerald</content>
+  <content contentuid="hb4501133g12d0g12cfg61acg05dcf48433fd" version="1">CS Tail A - Decor I - Sapphire</content>
+  <content contentuid="h3a05415cg2747gfd96g596ege600aa05287c" version="1">CS Tail A - Decor I - Obsidian</content>
+  <content contentuid="hb8807ec0g5f2cg2a1bgb02fg5f3bde113dab" version="1">CS Tail A - Decor I - Ice</content>
+  <content contentuid="h3c422dadg255bg9808g8b9agdec8097f0cd0" version="1">CS Tail A - Dots A - Blue-Yellow Topaz</content>
+  <content contentuid="h3280333agcba3g6ea7gc02cg9825f6bb52ad" version="1">CS Tail A - Dots A - Amethyst</content>
+  <content contentuid="h999f5230g3299g7f21g62b8g01a69bea4b64" version="1">CS Tail A - Dots A - Ruby</content>
+  <content contentuid="ha353b82dg8a90ga038gb9e4g8561f2e5d72a" version="1">CS Tail A - Dots A - Honey Topaz</content>
+  <content contentuid="h74125310g4b44g2992g75fcg949cf82a483a" version="1">CS Tail A - Dots A - Emerald</content>
+  <content contentuid="hd0b9880dg95abg9ed9g5fc8g45d1e02e6a32" version="1">CS Tail A - Dots A - Sapphire</content>
+  <content contentuid="hac1b0a20g194dgb0edga156g59889aec8fb4" version="1">CS Tail A - Dots A - Obsidian</content>
+  <content contentuid="hfff0af69g7f84g7f35g4954g4d6d251742ab" version="1">CS Tail A - Dots A - Ice</content>
+  <content contentuid="hbee3a0ccg4194g9f4fg6828gb0b630b138f2" version="1">CS Body - Decor J - Blue-Yellow Topaz</content>
+  <content contentuid="hc08befc1gbb82gffe1g49c8g5e313ba0a1ce" version="1">CS Body - Decor J - Amethyst</content>
+  <content contentuid="h6183e85bge4a9gfca0gb87bg03bde264faa7" version="1">CS Body - Decor J - Ruby</content>
+  <content contentuid="hfe908c4cgaccag734dg4c20ge3f29cd359d9" version="1">CS Body - Decor J - Honey Topaz</content>
+  <content contentuid="h709aec98geb1bg6e70geabbg56c076c328e6" version="1">CS Body Decor J - Emerald</content>
+  <content contentuid="hecda295fgd93eg7e8cg81a2g35f135baae92" version="1">CS Body - Decor J - Sapphire</content>
+  <content contentuid="hee59e00bgbf2dg6206gf60fgd602f9811f0d" version="1">CS Body - Decor J - Obsidian</content>
+  <content contentuid="h4663e842ge359g59fagfc87g320a3b30e521" version="1">CS Body - Decor J - Ice</content>
+  <content contentuid="h98e8a24eg012egf968g15c6g7d69cedc67cf" version="1">CS Body - Decor I - Blue-Yellow Topaz</content>
+  <content contentuid="hcb4216b0g5b6dgb2b7g5c58gfd151d10de59" version="1">CS Body - Decor I - Amethyst</content>
+  <content contentuid="h8dcc910bgb60dgc48bg004egf2c053ac0bfb" version="1">CS Body - Decor I - Ruby</content>
+  <content contentuid="he1983225g1d30gbdf5ga177gc94c2fe9a106" version="1">CS Body - Decor I - Honey Topaz</content>
+  <content contentuid="h0046434bga04fg3681gc555g2a4b368e7895" version="1">CS Body - Decor I - Emerald</content>
+  <content contentuid="h0f7c51d2gaff8gb30eg955bg8b443a45ab6d" version="1">CS Body  - Decor I - Sapphire</content>
+  <content contentuid="h75e26d1bg9964gc79ag394dg742ede55940d" version="1">CS Body - Decor I - Obsidian</content>
+  <content contentuid="h1d5e180ag76f4g641dg3413gd3abeecb67fe" version="1">CS Body - Decor I - Ice</content>
+  <content contentuid="hbb5a3935gbe39ga5aegde69g21c1373681c8" version="1">CS Body - Decor G - Blue-Yellow Topaz</content>
+  <content contentuid="h8941171agb7a7g11a3gdac6gb28672b51ba1" version="1">CS Body - Decor G - Amethyst</content>
+  <content contentuid="h5a311de0g0475g10ecg3829g4777330632bf" version="1">CS Body - Decor G - Ruby</content>
+  <content contentuid="habed337bg342fgc48fg5717g1b17673dabb8" version="1">CS Body - Decor G - Honey Topaz</content>
+  <content contentuid="h00c7fcfeg6de4g5697g8531g2f2685b77783" version="1">CS Body  - Decor G - Emerald</content>
+  <content contentuid="h600d4f5bg5cd0g7db0gf559g5072238f9412" version="1">CS Body - Decor G - Sapphire</content>
+  <content contentuid="h87ea94fcgba25g7d2dga91fged274d7a4c7a" version="1">CS Body - Decor G - Obsidian</content>
+  <content contentuid="hd8068dfbg22d2gc2e5gc943ge3e89d26ccaf" version="1">CS Body - Decor G - Ice</content>
+  <content contentuid="h2cb04dddgad3fg613cg81d5gb3fa5bacf8bf" version="1">CS Body - Decor F - Blue-Yellow Topaz</content>
+  <content contentuid="h992da65dgc75cg2a5eg7b3fg801be6c5112c" version="1">CS Body Decor F - Amethyst</content>
+  <content contentuid="h310c9092g1f28g5a94g2a55g44f2774d4be4" version="1">CS Body - Decor F - Ruby</content>
+  <content contentuid="h5b295acag3c3fgce54gbd02g6afba16528e2" version="1">CS Body  - Decor F - Honey Topaz</content>
+  <content contentuid="hcb8eacfdgb16egb08fg6456gb6c4112dbe38" version="1">CS Body - Decor F - Emerald</content>
+  <content contentuid="h86127308g4812g9d69g2897ge6211c40a865" version="1">CS Body - Decor F - Sapphire</content>
+  <content contentuid="hf4b81333g7dfcg1349g55c1gf471714b9114" version="1">CS Body - Decor F - Obsidian</content>
+  <content contentuid="hc36cffb4g9721gcdbbg26c8g29627dc18e10" version="1">CS Body - Decor F - Ice</content>
+  <content contentuid="h1fa76227ge4b2g31d1g4e32gc7a40327e08e" version="1">CS Body - Decor E - Blue-Yellow Topaz</content>
+  <content contentuid="h9e8a84b6gdbc9g053dgd4dfg62fc93e0c40d" version="1">CS Body - Decor E - Amethyst</content>
+  <content contentuid="h268972b8gf471g17edg4dfbge4443ef49c1d" version="1">CS Body - Decor E - Ruby</content>
+  <content contentuid="h9aa70798gd921g95abg7c25g0055eeeb2e00" version="1">CS Body - Decor E - Honey Topaz</content>
+  <content contentuid="hdcc3e715g78e0ga852g504fg2054bc9e3221" version="1">CS Body - Decor E - Emerald</content>
+  <content contentuid="hfe7b3884gfcf1g3432g6f2ag70688ac007d4" version="1">CS Body - Decor E - Sapphire</content>
+  <content contentuid="h2e31d05agd5f5g65a4g4e63gf8e43fc3460e" version="1">CS Body - Decor E - Obsidian</content>
+  <content contentuid="hb53f498fg533dg3564gcae2geb6150b5094b" version="1">CS Body - Decor E - Ice</content>
+  <content contentuid="hb864fc0bgac8agbea7g7f3bgb815c87e19df" version="1">CS Body - Decor D - Blue-Yellow</content>
+  <content contentuid="h45a374a6g70a6g7c8dg333fg80ad9cf9d650" version="1">CS Body - Decor D - Pink</content>
+  <content contentuid="h7363283eg4457g7895g40cfgd77742cb9466" version="1">CS Body - Decor D - Red</content>
+  <content contentuid="h0bb0708fg67cdg61f4gc9adg4ebdc425fd4b" version="1">CS Body - Decor D - Orange</content>
+  <content contentuid="h05ea5d5eg51a6ge2b1g9c18gb6f7677bc64b" version="1">CS Body - Decor D - Green</content>
+  <content contentuid="h6e122b30gf2b0gcb0dg3edeg846b06a7d41a" version="1">CS Body - Decor D - Blue</content>
+  <content contentuid="hf88af92agbddfgda5agd34fg82a596588045" version="1">CS Body - Decor D - Dark Purple</content>
+  <content contentuid="h8a105b69g6f8ag6cddg47ffgd6091c80b8a2" version="1">CS Body - Decor D -  Light Blue</content>
+  <content contentuid="hd5e215cdg6f52gce75g6421g26982ab3b629" version="1">CS Body - Decor C - Blue-Yellow Topaz</content>
+  <content contentuid="h68a8634fg8404g88c9g2116g6c953f65642d" version="1">CS Body - Decor C - Amethyst</content>
+  <content contentuid="h36004634ga71egff26gd13eg8ee5b4ddb32a" version="1">CS Body - Decor C - Ruby</content>
+  <content contentuid="h0b7db19cgf00egbf00g4499g257e4bb39bea" version="1">CS Body - Decor C - Honey Topaz</content>
+  <content contentuid="h2b7fe307g2e95g13d1g5159gd10d6ada48b6" version="1">CS Body - Decor C - Emerald</content>
+  <content contentuid="hf5eb6381gd8c3gf69bg24e2gab970bc475d3" version="1">CS Body - Decor C - Sapphire</content>
+  <content contentuid="h33065164g7b92g06d0gf2aagc29fb4855c25" version="1">CS Body Decor C - Obsidian</content>
+  <content contentuid="h469277b3g7172g6ee7ge76cgdbe985c91ae7" version="1">CS Body - Decor C - Ice</content>
+  <content contentuid="ha11b5e08ga3a3g350bg6eb5g6f82242c3b48" version="1">CS Body - Decor B - Blue-Yellow Topaz</content>
+  <content contentuid="h5d229283g5073g76e5g6715g901fa5082f61" version="1">CS Body - Decor B - Amethyst</content>
+  <content contentuid="hae341d4bg499cg8d6ag5bebgb52fa440b56c" version="1">CS Body - Decor B - Ruby</content>
+  <content contentuid="h55989348g39c7g3b2egf738g87ed5dce074c" version="1">CS Body - Decor B - Honey Topaz</content>
+  <content contentuid="h40e5b21bgf3f1g5aa3g4490g04a618129aaf" version="1">CS Body - Decor B - Emerald</content>
+  <content contentuid="h21696867ga9e1g9fbag5f79ga8345f17e5c5" version="1">CS Body - Decor B - Sapphire</content>
+  <content contentuid="h7cc12f0cg34edg78ddg0cecgf42635b9901c" version="1">CS Body - Decor B - Obsidian</content>
+  <content contentuid="h4d1006ddg79dagb063g7d38g8dfd82121013" version="1">CS Body - Decor B - Ice</content>
+  <content contentuid="ha59b167eg7f6agb520ga771gd86b9e2b8493" version="1">Clawstep Body - Decor A - Blue-Yellow Topaz</content>
+  <content contentuid="h109c1fcfgecd0gf45bg2f3bg531d1b6b8fce" version="1">Clawstep Body - Decor A - Amethyst</content>
+  <content contentuid="he9a9b161gcd65g1d9fg088eg43fefd7b2959" version="1">Clawstep Body - Decor A - Ruby</content>
+  <content contentuid="h6592c937gb540ge024g435eg7e5d8ddc92dc" version="1">CS Body - Decor A - Honey Topaz</content>
+  <content contentuid="h153bdfdfgec2dg4af1gcf04geadaf5c499d5" version="1">CS Body - Decor A - Emerald</content>
+  <content contentuid="h5cbd726dg9299g4128gc14cg77d5ef3e52f1" version="1">CS Body - Decor A - Sapphire</content>
+  <content contentuid="h3c4789a4g7af4gd87cgc6c8gbbcc5cdb87c3" version="1">CS Body - Decor A - Obsidian</content>
+  <content contentuid="h779f5c05g64bcg2852g6f52g08b1133279ae" version="1">CS Body - Decor A - Ice</content>
+  <content contentuid="h08e3899fg8d0egc8b0g9387gfbce5bd76fba" version="1">CS Body Glow - Karlach Heart - White</content>
+  <content contentuid="h4e7b45e0g0189ga4ebg303egba8107035cdd" version="1">CS Body Glow - Karlach Heart - Pink</content>
+  <content contentuid="hf81e7132g36dfg4bbag986bg44d2f5e61eee" version="1">CS Body Glow - Karlach Heart - Red</content>
+  <content contentuid="h436a8d7ag2561gb8f0gad3cgef2a9bcbad39" version="1">CS Body Glow - Karlach Heart - Fire</content>
+  <content contentuid="ha080aadagaf0dg5490gb49dg720a0790f592" version="1">CS Body Glow - Karlach Heart - Green</content>
+  <content contentuid="hcd2ca0aeg1407g59a5g7c00gaf6605a33447" version="1">CS Body Glow - Karlach Heart - Blue</content>
+  <content contentuid="h1a7fc25ege192gf5d4g16c5g0972a1bd4144" version="1">CS Body Glow - Karlach Heart - Purple</content>
+  <content contentuid="hf247baf2g8bb4gbb05g81e8ge0a11cf595b2" version="1">CS Body Glow - Karlach Heart - Blue-Green</content>
+  <content contentuid="h180726a0g8fe8g1e7cg521cg63674d7111a0" version="1">CS Body - Dots B - Blue-Yellow</content>
+  <content contentuid="hb74aa3fegcf5cg7f03g940bgec919d86a69f" version="1">CS Body - Dots B -  Pink</content>
+  <content contentuid="h48cad27dg1102g481fg2030g96e634cc5d8e" version="1">CS Body - Dots B - Red</content>
+  <content contentuid="hebcf0a8fg3d16g374eg8de3g2a6c01b488d7" version="1">CS Body - Dots B - Orange</content>
+  <content contentuid="h30d5e586ga9cag04e6gcbc1g9fd2ea566632" version="1">CS Body - Dots B - Green</content>
+  <content contentuid="hac160863g668eg63c6gebebg4fed96c86abf" version="1">CS Body - Dots B - Blue</content>
+  <content contentuid="h1dd2fed8g1655gbe86gac88g044918a8a257" version="1">CS Body - Dots B- Deep Purple</content>
+  <content contentuid="h93abb55fgbcb8g3309gcd1dg20299a32d590" version="1">CS Body - Dots B - Light Blue</content>
+  <content contentuid="hcc1f6224g9854gfd88g73ddg98f71982993f" version="1">CS Body - Dots A - Blue-Yellow Topaz</content>
+  <content contentuid="h6b3e050dg13e0gf32bg4a08g1284b771c16a" version="1">CS Body - Dots A -  Amethyst</content>
+  <content contentuid="h7036a448g740bg1f14g7e3ag85b8ad487711" version="1">CS Body - Dots A - Ruby</content>
+  <content contentuid="h2367e672g02fdg7281g2dcagf62f9ef42ecf" version="1">CS Body - Dots A - Honey Topaz</content>
+  <content contentuid="he14a272cg216bg21a2gc7f2g13df19d97404" version="1">CS Body - Dots A - Emerald</content>
+  <content contentuid="h65efe221g5143g80adge001g9afcda9ff5b6" version="1">CS Body - Dots A - Sapphire</content>
+  <content contentuid="hf58d6fc4gfb0agece9ga331g19b589561728" version="1">CS Body - Dots A- Obsidian</content>
+  <content contentuid="ha20c26f6gaca7g1842gcbfagd8b9af5ea5ab" version="1">CS Body - Dots A - Ice</content>
+  <content contentuid="hff46b515g3093g937cg7af5g9b51a3575c2f" version="1">CS Tail A - Dots A - Ice</content>
+  <content contentuid="h47bdaf7bg2719g03bcg33c0g2510f06392b6" version="1">CS Tail A - Dots A - Obsidian</content>
+  <content contentuid="h1fd637e3g8880ga5fcg23bdg98361e674dda" version="1">CS Tail A - Dots A - Sapphire</content>
+  <content contentuid="hbad8ac7fgaa3bg4c8fg35fag4371aaf571a9" version="1">CS Tail A - Dots A - Emerald</content>
+  <content contentuid="hd855f4b7ge8b4g5af0g480bg11873e8ec61d" version="1">CS Tail A - Dots A - Honey Topaz</content>
+  <content contentuid="h44ac0e7bg36c9g97ddg74aag0a34528fd14e" version="1">CS Tail A - Dots A - Ruby</content>
+  <content contentuid="h203aea7agccdcg128bg6fc2g2bbb0f65f971" version="1">CS Tail A - Dots A - Amethyst</content>
+  <content contentuid="he17df0d4ga89fg438dga29eg41e6f1f14c0c" version="1">CS Tail A - Dots A - Blue-Yellow Topaz</content>
+  <content contentuid="ha598e6a7ga854g07cag0c3bg50bf8469849d" version="1">CS Tail A - Decor I - Ice</content>
+  <content contentuid="h5f3f9026gcbf6g1be0g38d7g4fc0ceee3aca" version="1">CS Tail A - Decor I - Obsidian</content>
+  <content contentuid="hb862d32agf7e5g8056g106cg16d44342d9e0" version="1">CS Tail A - Decor I - Sapphire</content>
+  <content contentuid="h8bbf139bg3e51g64b8gf7b4gc4668d6d6be3" version="1">CS Tail A - Decor I - Emerald</content>
+  <content contentuid="h21090f35gcf4fg1697gea52gfb107b9ccd04" version="1">CS Tail A - Decor I - Honey Topaz</content>
+  <content contentuid="hbde7a4b1ga13cg0075g744eg92d0ba51795a" version="1">CS Tail A - Decor I - Ruby</content>
+  <content contentuid="h35f0a467g4158ge47fgf20ag78277c6e0bad" version="1">CS Tail A - Decor I - Amethyst</content>
+  <content contentuid="h714f749bgf8e3ge2cdgf54bg62226b6281a1" version="1">CS Tail A - Decor I - Blue-Yellow Topaz</content>
+  <content contentuid="h4e28bff0g664fg41e2ge635g539b46992a51" version="1">CS Body - Dots H - Ice</content>
+  <content contentuid="h46c3bc8fgdd1egb201gaf6egca6341e43c8d" version="1">CS Body - Dots H- Obsidian</content>
+  <content contentuid="hc3e0b66dgdb90g062bg0a62g2568c2a3088f" version="1">CS Body - Dots H - Sapphire</content>
+  <content contentuid="h4bf459dfg1bd2geeaagffa1g2e2fc9c6f169" version="1">CS Body - Dots H - Emerald</content>
+  <content contentuid="h6ef687aagd191g91ecgd1c5g73f98682da5f" version="1">CS Body - Dots H - Honey Topaz</content>
+  <content contentuid="hcea2099ega812g4726ge2e6g6516ebb93087" version="1">CS Body - Dots H - Ruby</content>
+  <content contentuid="h7f9563d0g0ec8g49bagbfdfge62e8f6722cc" version="1">CS Body - Dots H -  Amethyst</content>
+  <content contentuid="h6f892cabgccebg68ebga0e1g50d5f70f9af7" version="1">CS Body - Dots H - Blue-Yellow Topaz</content>
+  <content contentuid="h6e7b9751g3c08g06fdg7a8bg8eefe48fdec6" version="1">CS Body - Dots H - Ice</content>
+  <content contentuid="hdbf0a47fg828dgcd16g84f2gf1f7f0a791b5" version="1">CS Body - Dots H- Obsidian</content>
+  <content contentuid="hf229cfc9gce53g1be8g19c5g0bf2e52e7aee" version="1">CS Body - Dots H - Sapphire</content>
+  <content contentuid="h7928d40cg5cb5g93b5gea95gf876777bb413" version="1">CS Body - Dots H - Emerald</content>
+  <content contentuid="h5e75c57bg4055gdd6cg753eg5f451dabe319" version="1">CS Body - Dots H - Honey Topaz</content>
+  <content contentuid="h7bbd5fc4g9f04gd7d4g6412g4a0a6f614e84" version="1">CS Body - Dots H - Ruby</content>
+  <content contentuid="h02cefd61gec1dg92c9g63d3g42d11ebcc069" version="1">CS Body - Dots H -  Amethyst</content>
+  <content contentuid="h67f55777g0467g2041g8b36gb1483676bf8f" version="1">CS Body - Dots H - Blue-Yellow Topaz</content>
 </contentList>

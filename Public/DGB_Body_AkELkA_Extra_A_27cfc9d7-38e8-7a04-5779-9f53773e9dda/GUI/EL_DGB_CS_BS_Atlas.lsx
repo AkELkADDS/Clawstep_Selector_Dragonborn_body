@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Skill_BS_Claw_Dash"/>
+                    <attribute id="U1" type="float" value="0.50195312"/>
+                    <attribute id="U2" type="float" value="0.74804688"/>
+                    <attribute id="V1" type="float" value="0.001953125"/>
+                    <attribute id="V2" type="float" value="0.24804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Skill_BS_Raptor_Kick"/>
+                    <attribute id="U1" type="float" value="0.001953125"/>
+                    <attribute id="U2" type="float" value="0.24804688"/>
+                    <attribute id="V1" type="float" value="0.001953125"/>
+                    <attribute id="V2" type="float" value="0.24804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Skill_BS_Sickle_Kick"/>
+                    <attribute id="U1" type="float" value="0.25195312"/>
+                    <attribute id="U2" type="float" value="0.49804688"/>
+                    <attribute id="V1" type="float" value="0.001953125"/>
+                    <attribute id="V2" type="float" value="0.24804688"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="64"/>
+                    <attribute id="Width" type="int32" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/EL_DGB_CS_BS_Atlas.dds"/>
+                    <attribute id="UUID" type="FixedString" value="f069fbb4-5804-a52b-13dc-764f894ee14e"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="256"/>
+                    <attribute id="Width" type="int32" value="256"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
