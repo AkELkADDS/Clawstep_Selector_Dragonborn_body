@@ -97,5 +97,53 @@
         <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="04a2fd63-34a3-62d0-26e9-6e450d6cf67f" />
       </fields>
     </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="233136cf-4b10-4485-9681-b925fe5da9da" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_CleanLimbs" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="ab0f4ca7-58be-4a19-1763-923b6e89cc64" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="8ba1c27d-5c6c-93a7-7927-7f41e5868088" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3b57f4c3-cb00-44d3-9867-bb12d4347d2a" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_CleanLimbs" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="7a1a2176-58c2-21ec-944d-2db2720720f5" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="00c1df84-c2c6-35fe-bf12-a567fcd0c704" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0a814b0a-f810-4bc8-a067-1d78a03b0e55" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_H_3Talons_EL_2_Tattoo_KAD" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="8a3e54c2-6a75-3eec-5f84-a653239e4f85" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="c8c4edb0-60ca-db66-bbe3-c03526a1cee5" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF191970" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d1a6439a-35bc-42d6-84c3-7524260a513f" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_H_3Talons_EL_1_Tattoo_KAD" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="8f8c2b80-b244-de4f-1288-5b7ce2020a5c" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="74e182b6-5db8-dec8-a3f2-e114feb748ae" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
