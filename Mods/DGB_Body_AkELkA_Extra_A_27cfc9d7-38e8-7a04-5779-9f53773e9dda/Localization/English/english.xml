@@ -293,7 +293,7 @@
   <content contentuid="h8dbdfdcdg3082gf312g3926gaacca6fba8c2" version="1">Inner Sickle - Claw Attack</content>
   <content contentuid="h3ba0773ag419aga7f1g3285g17b91de00223" version="2">Raptor - Stripes - Claw Attack</content>
   <content contentuid="h4cdc6650g0a64ga564g077eg7e855669b7b9" version="2">3 Talons - Scars A - Extra Speed</content>
-  <content contentuid="h55e35ac6g10c8gad70ga47bg2fe2422ac698" version="2">3 Talons - Stripes - Extra Speed</content>
+  <content contentuid="h55e35ac6g10c8gad70ga47bg2fe2422ac698" version="3">3 Talons - Stripes - Extra Speed</content>
   <content contentuid="h0561c932g3990g53b0g426eg92daafc6927c" version="1">Short Claws - Scars A - Extra Speed</content>
   <content contentuid="hd3b46b69g8c47g0e16gb57cg0c261070d7c2" version="1">Short Claws - Stripes - Extra Speed</content>
   <content contentuid="hadd0440cgde29g536cg4c11g1a0eafc7d62f" version="2">Inner Sickle - Scars A - Claw Attack</content>
@@ -783,11 +783,35 @@
   <content contentuid="h7bbd5fc4g9f04gd7d4g6412g4a0a6f614e84" version="1">CS Body - Dots H - Ruby</content>
   <content contentuid="h02cefd61gec1dg92c9g63d3g42d11ebcc069" version="1">CS Body - Dots H -  Amethyst</content>
   <content contentuid="h67f55777g0467g2041g8b36gb1483676bf8f" version="1">CS Body - Dots H - Blue-Yellow Topaz</content>
-  <content contentuid="h96cbb9ddga3feg0adbgf820gc269451ea820" version="3">3 Talons - Scars A - Extra Speed - Karlach Tattoo</content>
+  <content contentuid="h96cbb9ddga3feg0adbgf820gc269451ea820" version="4">3 Talons - Scars A - Karlach Tattoo Black - Extra Speed</content>
   <content contentuid="h775b01bag7839g1d76g4949g01371e98142e" version="1">3 Talons - Scars A - Extra Speed - Karlach Tattoo</content>
   <content contentuid="h1782e452g1208g9cacg9a89gf636a8cade61" version="1">CS Body - Karlach Metal</content>
-  <content contentuid="heda071efg4d55g8cd6g859cg186491f2f468" version="2">3 Talons - Scars A - MakeUp Dots A - Extra Speed </content>
-  <content contentuid="h23ce3363gf36fg0db6g790egb74e678f2b19" version="1">3 Talons - Scars B - MakeUp Dots A - Extra Speed</content>
-  <content contentuid="hb1408b09g729cgf0f4gc02bga02f58c3748b" version="1">3 Talons - Stripes - MakeUp Dots A  - Extra Speed</content>
-  <content contentuid="hc1b306d8gac06gb877g9107g4b9537120bc5" version="1">3 Talons - MakeUp Dots A - Extra Speed</content>
+  <content contentuid="heda071efg4d55g8cd6g859cg186491f2f468" version="3">3 Talons - Scars A - MakeUp A - Extra Speed </content>
+  <content contentuid="h23ce3363gf36fg0db6g790egb74e678f2b19" version="2">3 Talons - Scars B - MakeUp A - Extra Speed</content>
+  <content contentuid="hb1408b09g729cgf0f4gc02bga02f58c3748b" version="3">3 Talons - Stripes - MakeUp A - Extra Speed</content>
+  <content contentuid="hc1b306d8gac06gb877g9107g4b9537120bc5" version="2">3 Talons - MakeUp A - Extra Speed</content>
+  <content contentuid="hd5bc16e5g0386g1099g1951g90a504a0211a" version="1">3 Talons - Scars A - Karlach Tattoo Black - Extra Speed</content>
+  <content contentuid="hf50d565bgb874g3b75g6d8dg2ae742728432" version="3">3 Talons - Scars B - MakeUp A - Extra Speed</content>
+  <content contentuid="h5969085cg3668g6221gffebg0ae0b71bbeaa" version="1">3 Talons - Stripes - Extra Speed</content>
+  <content contentuid="h7d3bb18cg1440gaa35g8824g681bf5abbea3" version="1">3 Talons - Stripes - MakeUp A - Extra Speed</content>
+  <content contentuid="hbe34416ege4fdge1acgd830g8b40c9d5b50d" version="1">Clawstep - MakeUp A</content>
+  <content contentuid="h237657d4g72f7g6fe7g2f6fg9fed30228d97" version="1">Clawstep - Scars A - MakeUp A</content>
+  <content contentuid="h447311b7g331bg6935g1f33gca3bf47653f1" version="1">Clawstep - Scars B - MakeUp A</content>
+  <content contentuid="h9652c6b1g0489ga7b3gde74g8f482b37ec5f" version="1">Clawstep - Stripes - MakeUp A</content>
+  <content contentuid="h7a50d50agf06fg25b1gad37g7c964f93e548" version="2">Short Claws - MakeUp A - Extra Speed</content>
+  <content contentuid="h98a01967g078dg15dbg0537g36c84617f06f" version="2">Short Claws - Scars A - MakeUp A - Extra Speed</content>
+  <content contentuid="hd51a1a3ag1719g40eege44ega0ae9c639b7b" version="2">Short Claws - Scars B - MakeUp A - Extra Speed</content>
+  <content contentuid="h41256374gce28g8b7ag5d3ag85d05dab0ae4" version="2">Short Claws - Stripes - MakeUp A - Extra Speed</content>
+  <content contentuid="hcf373492ga09agde66g6fcag8f8ea90d651a" version="1">Inner Sickle - MakeUp A - Claw Attack</content>
+  <content contentuid="h22a84aa7g7df3g1bc1g3878g117f0fe72257" version="1">Inner Sickle - Scars A - MakeUp A - Claw Attack</content>
+  <content contentuid="hdf32b4eegaad1g059agb2b3g2a375ad23d38" version="1">Inner Sickle - Scars B - MakeUp A - Claw Attack</content>
+  <content contentuid="he9e33105gbb1eg2de7g8e85g4d9d8b2779fc" version="1">Inner Sickle - Stripes - MakeUp A - Claw Attack</content>
+  <content contentuid="hab23d0d7ga924gec14g2774g796e3cb9c16f" version="1">Outer Sickle - Claw Attack</content>
+  <content contentuid="h3104e5cbg9527g0ad2g1e80gd165779178f0" version="1">Outer Sickle - Scars A - Claw Attack</content>
+  <content contentuid="haba5e6b5g56c6g670egd7e3g500927c771b1" version="1">Outer Sickle - Scars B - Claw Attack</content>
+  <content contentuid="h4ff920aegca80g866bg8a0fg8897c8892f48" version="1">Outer Sickle - Stripes - Claw Attack</content>
+  <content contentuid="h032f693cg16b4g9299gdd1dg02111f05313f" version="1">Raptor - Claw Attack</content>
+  <content contentuid="hc0c276dfg3b66gda33g68eeg4177bdd80e5c" version="1">Raptor - Scars A - Claw Attack</content>
+  <content contentuid="h1f79503ag6896g5a2fg5fc4g151240090cd7" version="1">Raptor - Scars B - Claw Attack</content>
+  <content contentuid="h2bda59c8gab59gab34g03abg651596ee4043" version="1">Raptor - Stripes - Claw Attack</content>
 </contentList>
