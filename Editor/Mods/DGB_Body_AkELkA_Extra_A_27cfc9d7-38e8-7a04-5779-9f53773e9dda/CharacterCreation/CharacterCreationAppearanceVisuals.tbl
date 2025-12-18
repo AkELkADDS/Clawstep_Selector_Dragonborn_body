@@ -649,6 +649,66 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Burns_Tattoo_KAD" />
       </fields>
     </stat_object>
+    <stat_object color="#FF191970" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_124" />
+        <field name="UUID" type="IdTableFieldDefinition" value="96ea0d48-526a-4db1-b750-5c8be506a780" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="3f4aabe0-ba54-49de-9714-34e8681588c4" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc1b306d8gac06gb877g9107g4b9537120bc5" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b551d7be-e6ec-41cf-91c2-2703611155d4" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="a23e857c-cad7-43f8-a3ca-8845bcc10c15" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Scars_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heda071efg4d55g8cd6g859cg186491f2f468" version="2" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Burns_Tattoo_KAD" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_121" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0b764243-845a-4239-aba2-61f441015d40" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f4d87144-7328-4aed-a499-2bcc201e9747" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Scars_B_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h23ce3363gf36fg0db6g790egb74e678f2b19" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_B" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_122" />
+        <field name="UUID" type="IdTableFieldDefinition" value="418267fd-9f35-4e4b-a9b5-f068587bcd90" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="97f2ca0a-d7af-435e-b3e8-4cb821cd898d" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Stripes_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb1408b09g729cgf0f4gc02bga02f58c3748b" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Stripes_A" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_117" />
