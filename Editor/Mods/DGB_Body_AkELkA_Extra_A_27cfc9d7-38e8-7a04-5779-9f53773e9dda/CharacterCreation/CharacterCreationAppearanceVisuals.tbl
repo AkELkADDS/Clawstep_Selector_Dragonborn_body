@@ -41,6 +41,20 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_276" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b8830df8-1227-434c-ab93-781378a95bfa" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="c89c82f7-f0fa-45f0-8f15-f21e86cd806c" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfa69ec2cg2732gdef4g30e6g757b91d0f1dd" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_224" />
@@ -53,6 +67,20 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_A_Scars_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h989de479g2aecg4a18g6caag95f3453909a4" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Scars_Burns" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_277" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ebc83363-deb0-4912-bb45-b70489c4f1c5" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f071aeba-cf91-45ec-9cb0-2f4d8fdb311d" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_A_Scars_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4d5fb39cg3ebegd3a8g7daaga9ebeec68830" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -69,6 +97,20 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Scars_B" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_278" />
+        <field name="UUID" type="IdTableFieldDefinition" value="51266c3c-fa60-4f03-84f1-91a536473b90" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="70c67610-8e35-4497-a34e-db868ed2b872" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_A_Scars_B_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2089742cg85fbgfd5fg5ef6g26c5a2c0b6e5" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Scars_B_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
@@ -81,6 +123,20 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_A_Stripes" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h40d8e70bg8826g28d0gcfa8g59078997a1b2" version="3" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Stripes_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_279" />
+        <field name="UUID" type="IdTableFieldDefinition" value="17bdd040-d35a-488b-aeee-78d9c7f349f1" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f1ae07bb-a5ee-45b8-90cc-cc1b133f6fab" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_A_Stripes_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h494e81d4g4312g36aeg3025g4345d1b025f3" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Stripes_A_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -98,6 +154,21 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_280" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b95171e3-3917-4733-a8ba-42e549e0c92e" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="e094407f-2c2e-4ce5-b931-37753737c139" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_E_EL_2_Clawstep_ShortClaw_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1509c334gaed3gd921g80c1g61aa3c6d265e" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_226" />
@@ -111,6 +182,21 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf6c71284g42cegcd6bg1df7g3023a719a73c" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Scars_Burns" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_281" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2b94ef70-081f-4d3b-87c1-d2235ffb4ebc" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="4eafdb04-32be-4f6a-8913-b82accb9331b" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_E_EL_2_Clawstep_ShortClaw_Scars_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c2e8092g1262g6d1bgb5bdgff736e8912ea" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -128,6 +214,21 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Scars_B" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_282" />
+        <field name="UUID" type="IdTableFieldDefinition" value="16c8f33f-5b33-4974-8fa4-c21c6ad69f6c" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f697f6a3-2e17-4605-98a9-8b5a729eac4f" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_E_EL_2_Clawstep_ShortClaw_Scars_B_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he0caf693g9a57g2c35g315agb472ec994bab" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Scars_B_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_227" />
@@ -141,6 +242,21 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha43953d9g58f4gcb9fg4102g3a0a4e0670b2" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Stripes_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_283" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8dc98c3b-016c-44ff-af9f-c587e064ec25" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="8320e257-92f0-4dfd-8a5d-465d814b3cf8" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_E_EL_2_Clawstep_ShortClaw_Stripes_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfec3a1c8gfe8fge565gdcb5ge11f34ec500b" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Stripes_A_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -158,6 +274,21 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_300" />
+        <field name="UUID" type="IdTableFieldDefinition" value="19025e9c-2644-4925-9109-8e6c38cc6960" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="2107f568-2d9e-4678-a279-2d1e3e1d7195" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb01bf8ccg05b7g3ad3g0122gcde7aeaa998e" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_225" />
@@ -171,6 +302,21 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h30b1dc82gaae4g7c55gd5ccga581193fa5a3" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Scars_Burns" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_301" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b06c1fe8-e1f3-4b20-8af1-17793e736f91" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="af8b7ab4-2d95-4536-a3a4-cf0f9ca78aca" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_Scars_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc7d12294g4537gd746g6020ga76b60bf7217" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -188,6 +334,21 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Scars_B" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_302" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a1d9d52d-6a07-48ff-a4da-a5009526fbd2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="4e294414-e9af-4e12-a93f-00643a26fe53" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_Scars_B_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb739b394gb971g5bcdgc44fg4eb43d64de36" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Scars_B_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
@@ -201,6 +362,21 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc9f4c8bdg8d84gb14cg4138g6f59afd1d4a2" version="5" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Stripes_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_303" />
+        <field name="UUID" type="IdTableFieldDefinition" value="62f0c7e7-c133-424f-a3c7-819c734fd589" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="409f5285-2487-456f-aa91-0050c70da36e" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_Stripes_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hae89ffbbg87eag61bdg0c52g756820fc2e8c" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Stripes_A_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -218,6 +394,21 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_304" />
+        <field name="UUID" type="IdTableFieldDefinition" value="888bddce-2b49-44cc-9af3-96f7eedea34a" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="e40200e5-c6f0-4d1f-a487-e0a78674a3e4" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2a725032g18f5g2159g8671gc2afde7ab852" version="2" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_228" />
@@ -233,6 +424,21 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Burns" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_305" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e5adf923-8dfe-48c0-a3a9-ef111bfaf701" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="9174fdb6-34d1-46c1-b7a8-a29d91b6098e" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_Scars_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8e1cd20eg7219g521eg01b5g1c017ea23cfa" version="2" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Burns_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_260" />
@@ -246,6 +452,21 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfdd610f1g2ae8ge1d3gd22agff5610eec901" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_B" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_306" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ef0a685c-8aa0-4dac-b91c-060cd1252e0a" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="4c52abe1-5e1c-462a-9901-2aaadcf21b5c" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_Scars_B_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hae63b352g6a98g2727ga5b8gd6fdce0e045b" version="2" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_B_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -265,17 +486,17 @@
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
       <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
-        <field name="UUID" type="IdTableFieldDefinition" value="4d2c67f3-4728-465c-8406-8679a627e6c2" />
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_307" />
+        <field name="UUID" type="IdTableFieldDefinition" value="989e4838-5050-4666-99e7-28f82ff773f4" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_Scars_A_Tattoo_KAD" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h96cbb9ddga3feg0adbgf820gc269451ea820" version="4" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="d785275d-7da5-46d0-9f44-b42d85c60165" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_Stripes_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h470fb658gfc6dgd056g7d04gf00bf00c90b2" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Burns_Tattoo_KAD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Stripes_A_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -293,6 +514,21 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_123" />
+        <field name="UUID" type="IdTableFieldDefinition" value="71de986c-43f7-4435-b11f-f94dc237ebad" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="27e450cd-e72b-40e0-8814-ca06f568576f" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_F_EL_2_Clawstep_Sickle_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7c154da1g24a9g2054gc025g3f7fed142bed" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_232" />
@@ -306,6 +542,21 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h093200eag5c2cg6a4bg7e9ag2a72acd9f24d" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Scars_Burns" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_308" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7371ad34-5897-45d0-bc38-35ad5793eacc" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="97792e5f-c445-4a73-926a-1ab3f696e6ff" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_F_EL_2_Clawstep_Sickle_A_Scars_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6ad817afgbe9dg943bg6489g8d23d8022cc1" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -323,6 +574,21 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Scars_B" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_309" />
+        <field name="UUID" type="IdTableFieldDefinition" value="48c9ade7-0cba-448f-90f8-a0d1f1fe83ab" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="221eb09a-790c-4343-ad9e-55e15e726c9c" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_F_EL_2_Clawstep_Sickle_A_Scars_B_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd73d5246g5023g1e25gca69gd59562898fad" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Scars_B_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_249" />
@@ -336,6 +602,21 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf11dcebdg7e8aga6dcg2cb9g05364fbfe7bf" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Stripes_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_310" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5091f972-384d-4b49-8ed6-dc5b7c851400" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="d812c7f4-1fd2-4ef4-9d6e-68b132fed3f7" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_F_EL_2_Clawstep_Sickle_A_Stripes_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf7f4101g5417g21ffg8909ge2697cb9d222" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Stripes_A_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -353,6 +634,21 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_312" />
+        <field name="UUID" type="IdTableFieldDefinition" value="65525a16-9e0f-41d9-a432-1b5ea1b0b936" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f4c5d947-1240-43ad-8822-5948e67694e2" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_G_EL_2_Clawstep_Sickle_B_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h15f5e054ge1c6g8a9fg41f7gc6fc9018a421" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_230" />
@@ -366,6 +662,21 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6de91789ge85bg1b2egde88g324f887a829a" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Scars_Burns" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_313" />
+        <field name="UUID" type="IdTableFieldDefinition" value="33e98698-6cc6-42b1-8c28-132fe9ca1c95" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="702b4b12-1988-451e-a743-aa0a485a6c04" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_G_EL_2_Clawstep_Sickle_B_Scars_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6e2f7ca8gb8dbg08ecg6ce4g6f9fe29aa345" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -383,6 +694,21 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Scars_B" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_314" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dde9a4bb-dca3-4a55-b980-372d58a446fb" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="218cc559-d05f-43b2-84b7-5e0685bf4a63" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_G_EL_2_Clawstep_Sickle_B_Scars_B_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5552aacag6490g24bbgab89g7100c5d2d79f" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Scars_B_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_231" />
@@ -396,6 +722,36 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he1b93cb2gab2agab10g52d9gae64abc8d27c" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Stripes_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_315" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d4ebecae-0ab9-4b9c-a04c-b78c181a41e7" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="4f8abee6-9c7d-4e89-94cf-ab964b5c0b78" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_G_EL_2_Clawstep_Sickle_B_Stripes_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf1050604g9a12g8e96g3274g9b22784991ef" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Stripes_A_MU_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4d2c67f3-4728-465c-8406-8679a627e6c2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_Scars_A_Tattoo_KAD" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h96cbb9ddga3feg0adbgf820gc269451ea820" version="4" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Burns_Tattoo_KAD" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -423,7 +779,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="51d34e38-8690-4cc7-acea-ba877b7c59de" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbe34416ege4fdge1acgd830g8b40c9d5b50d" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -451,7 +807,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0bdf4e68-d0ad-47a7-bc73-9787efeafbff" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Scars_A_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h237657d4g72f7g6fe7g2f6fg9fed30228d97" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Scars_Burns" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -479,7 +835,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="fa669fb8-c103-43dc-95c2-c4dfdb9e0734" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Scars_B_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h447311b7g331bg6935g1f33gca3bf47653f1" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Scars_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Scars_B_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -507,7 +863,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="4b281706-ba4c-4766-814c-7ed5d1f12c1a" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Stripes_A_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9652c6b1g0489ga7b3gde74g8f482b37ec5f" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Stripes_A" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Stripes_A_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -537,7 +893,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_E_EL_2_Clawstep_ShortClaw_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7a50d50agf06fg25b1gad37g7c964f93e548" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -567,7 +923,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_E_EL_2_Clawstep_ShortClaw_Scars_A_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h98a01967g078dg15dbg0537g36c84617f06f" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Scars_Burns" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -597,7 +953,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_E_EL_2_Clawstep_ShortClaw_Scars_B_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd51a1a3ag1719g40eege44ega0ae9c639b7b" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Scars_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Scars_B_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -627,7 +983,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_E_EL_2_Clawstep_ShortClaw_Stripes_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h41256374gce28g8b7ag5d3ag85d05dab0ae4" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Stripes_A" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Stripes_A_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -655,9 +1011,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="2de9e252-0307-45e9-9ca5-e5e42388ba37" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_D_EL_2_Clawstep_Raptor_Tattoo_MakeUp_A" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h032f693cg16b4g9299gdd1dg02111f05313f" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h032f693cg16b4g9299gdd1dg02111f05313f" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -685,9 +1041,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="08e70946-3c3a-4f62-9c11-acb3f3b90df9" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_D_EL_2_Clawstep_Raptor_Scars_A_Tattoo_MakeUp_A" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc0c276dfg3b66gda33g68eeg4177bdd80e5c" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc0c276dfg3b66gda33g68eeg4177bdd80e5c" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Scars_Burns" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -715,9 +1071,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="8db58b0a-659c-468a-83cb-d72c240a4ff0" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_D_EL_2_Clawstep_Raptor_Scars_B_Tattoo_MakeUp_A" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1f79503ag6896g5a2fg5fc4g151240090cd7" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1f79503ag6896g5a2fg5fc4g151240090cd7" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Scars_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Scars_B_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -745,9 +1101,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="64ff9ec8-d901-49fc-8c0b-0de242695bad" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_D_EL_2_Clawstep_Raptor_Stripes_Tattoo_MakeUp_A" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2bda59c8gab59gab34g03abg651596ee4043" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2bda59c8gab59gab34g03abg651596ee4043" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Stripes_A" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Stripes_A_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -777,7 +1133,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc1b306d8gac06gb877g9107g4b9537120bc5" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -797,21 +1153,6 @@
     </stat_object>
     <stat_object color="#FF191970" is_substat="false">
       <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_105" />
-        <field name="UUID" type="IdTableFieldDefinition" value="a06ab0fa-ca7c-4373-9392-19e474e1f889" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
-        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="f4feee01-3356-409f-9142-8f9f34d618b8" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Scars_A_Tattoo_KAD" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd5bc16e5g0386g1099g1951g90a504a0211a" version="1" />
-        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Burns_Tattoo_KAD" />
-      </fields>
-    </stat_object>
-    <stat_object color="#FF191970" is_substat="false">
-      <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
         <field name="UUID" type="IdTableFieldDefinition" value="b551d7be-e6ec-41cf-91c2-2703611155d4" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
@@ -822,7 +1163,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Scars_A_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heda071efg4d55g8cd6g859cg186491f2f468" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Burns_Tattoo_KAD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -852,7 +1193,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Scars_B_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h23ce3363gf36fg0db6g790egb74e678f2b19" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_B_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -882,7 +1223,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Stripes_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb1408b09g729cgf0f4gc02bga02f58c3748b" version="3" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Stripes_A" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Stripes_A_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -912,7 +1253,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf373492ga09agde66g6fcag8f8ea90d651a" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -942,7 +1283,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_Scars_A_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h22a84aa7g7df3g1bc1g3878g117f0fe72257" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Scars_Burns" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -972,7 +1313,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_Scars_B_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdf32b4eegaad1g059agb2b3g2a375ad23d38" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Scars_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Scars_B_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1002,7 +1343,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_Stripes_Tattoo_MakeUp_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he9e33105gbb1eg2de7g8e85g4d9d8b2779fc" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Stripes_A" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Stripes_A_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -1030,9 +1371,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="741a9866-89ba-4048-94fd-ce633b68e76d" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_Tattoo_MakeUp_A" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hab23d0d7ga924gec14g2774g796e3cb9c16f" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hab23d0d7ga924gec14g2774g796e3cb9c16f" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1060,9 +1401,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="dcaf76b8-b1e9-4cf6-887e-d3a77b96fb9f" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_Scars_A_Tattoo_MakeUp_A" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3104e5cbg9527g0ad2g1e80gd165779178f0" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3104e5cbg9527g0ad2g1e80gd165779178f0" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Scars_Burns" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Scars_Burns_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1090,9 +1431,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="05634439-cb29-41f5-bb11-9e5a0812f15c" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_Scars_B_Tattoo_MakeUp_A" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haba5e6b5g56c6g670egd7e3g500927c771b1" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haba5e6b5g56c6g670egd7e3g500927c771b1" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Scars_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Scars_B_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1120,9 +1461,24 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0d9a2da0-0852-4d43-9ffa-4bcf2806b8d5" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_Stripes_Tattoo_MakeUp_A" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4ff920aegca80g866bg8a0fg8897c8892f48" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4ff920aegca80g866bg8a0fg8897c8892f48" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Stripes_A" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Stripes_A_MU_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF0000CD" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_105" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a06ab0fa-ca7c-4373-9392-19e474e1f889" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f4feee01-3356-409f-9142-8f9f34d618b8" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Scars_A_Tattoo_KAD" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd5bc16e5g0386g1099g1951g90a504a0211a" version="1" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Burns_Tattoo_KAD" />
       </fields>
     </stat_object>
     <stat_object color="#FF000000" is_substat="false">
@@ -1139,6 +1495,20 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Clear" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_318" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0fc6ae5e-93a9-4a3b-beff-d3d0d256354a" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="c9cbe671-c836-462c-8056-9abc71cacb4a" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_SpineDecor_EL_2_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf9e982a7g92f9g05a1ge2e2g77cf87fa31db" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Clear_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_251" />
@@ -1151,6 +1521,20 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_SpineDecor_EL_2_A_Scars_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc497cc55g475eg7ec8gfd4egb734dfe01a72" version="2" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Scars_Claw" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_319" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b0d8d8ed-3724-4f8d-879c-c45561b60a3d" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="14405da4-438e-4a59-ae9c-e104bbb9a122" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_SpineDecor_EL_2_A_Scars_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h87786e20g0a5cg9a02g6ebbg592d7216b05d" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Scars_Claw_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1167,6 +1551,48 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Scars_Claw_B" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_320" />
+        <field name="UUID" type="IdTableFieldDefinition" value="de3a11cb-3532-451b-b838-414f3ab3c253" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="b99cef98-d921-4c42-a068-d994a3e022a0" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_SpineDecor_EL_2_A_Scars_B_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6219b3b3gc2fbg25e0ga9c4gc2cb9fdb8896" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Scars_Claw_B_MU_A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_311" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fed84e17-a9dd-4745-bb11-5d60ba4256f3" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="8b0bcdec-80f9-4166-8195-823b44f797b3" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_SpineDecor_EL_2_A_Stripes" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h810fd637gbb6eg8f9egf39agef843b9bc49a" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Stripes" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_321" />
+        <field name="UUID" type="IdTableFieldDefinition" value="08dd5992-a4f3-4f00-b4e9-a09d091755a0" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="1561f21f-6d64-42f4-941f-722452ef7971" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_SpineDecor_EL_2_A_Stripes_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h63910033ge444g4886g7720gb8847e960a3e" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Stripes_MU_A" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_256" />
@@ -1177,8 +1603,22 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="4d8d6bd4-93d0-42ec-959f-fe70762d6de7" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_A_SpineDecor_EL_2_A" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5fba3edag145agf32cg530bg74ccfb3a1553" version="2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h809af73dgc528gd644g33b6gddf795a8219b" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Clear" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF191970" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_322" />
+        <field name="UUID" type="IdTableFieldDefinition" value="25208fc8-9245-4156-9d6e-b2a28e89b2f9" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="d4a005e4-10f6-44d4-9c13-eb2252a75bce" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_A_SpineDecor_EL_2_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h240cf94bg3ff7g9524g8ee9g2af7f5a90905" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Clear_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1191,8 +1631,22 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9a5cec1a-3b4e-4236-a8de-c0e10af5b44e" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_A_SpineDecor_EL_2_A_Scars_A" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb23312c7gf97fg62f1gbbf8g8e0e5f3f1c1b" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he48a2251gc5f6g8bf0gb47eg9b0279c0191a" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Scars_Claw" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF191970" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_323" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8b1768e3-9919-4d4e-a2cb-425c5bc4c8f2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="4f3e446b-12d9-458e-93fc-f984298e8b86" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_A_SpineDecor_EL_2_A_Scars_A_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6d8ccf97g9e87gd4a3gde77g93b2011e13af" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Scars_Claw_MU_A" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1205,8 +1659,50 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="01a6f12e-406c-4e66-abcd-458d6b7cd2c4" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_A_SpineDecor_EL_2_A_Scars_B" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5c610c54g5379g4f0cgea98gc8af4cfdce48" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h426fe96fg0714gecfeg9ee2gea0ea4d78423" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Scars_Claw_B" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF191970" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_324" />
+        <field name="UUID" type="IdTableFieldDefinition" value="291ffdb2-1633-4874-8bc9-10aaa1e97947" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="7df8d586-74b6-491f-b8b0-75e869cc4681" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_A_SpineDecor_EL_2_A_Scars_B_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7a4dd74fg8bf8gb59dg31a3g800ef8df8465" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Scars_Claw_B_MU_A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_316" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b629c5cc-3c9e-4494-a2c3-b8dc130a0738" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="5fb0901d-38e9-475c-bf53-1d775c6da838" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_A_SpineDecor_EL_2_A_Stripes" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7e9a73b6gff0bgb131g5423g3d3881af74c6" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Stripes" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF191970" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_325" />
+        <field name="UUID" type="IdTableFieldDefinition" value="29f2cebb-265d-4da3-80bd-896af39ecd6a" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="045fff6c-4b5f-4e5b-96e4-e8406fd9a0dd" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_A_SpineDecor_EL_2_A_Stripes_Tattoo_MakeUp_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb4661580g2b8cge3e9g91fbg50c22b346ab9" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Stripes_MU_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF000000" is_substat="false">
@@ -4133,6 +4629,62 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="f138ea52-6d23-4581-a666-d0cc87d2e6d0" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Spine_Decor_Metal_KAD" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_317" />
+        <field name="UUID" type="IdTableFieldDefinition" value="effc1277-0b38-411f-9313-47b26403ce98" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he401993fg4c9bgc189gf1a0g99e0cef8b029" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Tail_A_FF_Tattoo_MakeUp_A" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="95c1fed5-350a-490b-bda2-ec96bd1f56b0" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Tail_A_MU_A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_327" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bbcd87b9-bb86-4574-acbb-4bec5c149103" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd08f34fagaee7gef96g4290gc532428d575a" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Tail_A_FF_Long_Tattoo_MakeUp_A" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="1496d9e0-17bf-4b51-89e2-03ce5ac81a42" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Tail_A_Long_MU_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_326" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c026e159-90a4-42e3-bfdc-2415bea9f429" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdcadae89g5089gbbd8g0efag8dde6fd38b19" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Tail_A_FF_Tattoo_MakeUp_A" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="8893f70b-2ba4-403e-883b-290a254a83ca" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Tail_A_MU_A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_328" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3e56d0f3-4b16-42e9-ad9d-fc28a5312b3f" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb83e291bg31b7g0c2cg92a0g6cbe5ed55663" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Tail_A_FF_Long_Tattoo_MakeUp_A" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="66c3c2b1-fc52-41c2-be37-5d67e3657ce6" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Tail_A_Long_MU_A" />
       </fields>
     </stat_object>
   </stat_objects>
