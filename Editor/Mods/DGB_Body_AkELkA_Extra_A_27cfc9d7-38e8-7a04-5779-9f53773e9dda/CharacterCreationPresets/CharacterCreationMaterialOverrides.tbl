@@ -130,7 +130,7 @@
         <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
         <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
         <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="8a3e54c2-6a75-3eec-5f84-a653239e4f85" />
-        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="c8c4edb0-60ca-db66-bbe3-c03526a1cee5" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="4b1d4824-dabb-463e-78a8-04b0dbbf29ed" />
       </fields>
     </stat_object>
     <stat_object color="#FF191970" is_substat="false">
@@ -143,6 +143,30 @@
         <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
         <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="8f8c2b80-b244-de4f-1288-5b7ce2020a5c" />
         <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="74e182b6-5db8-dec8-a3f2-e114feb748ae" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6b771132-8726-4166-8f52-67af6d58de96" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_I_Astarion_Scar_EL_2" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="b6772dd5-9c72-2a92-d9d9-6c4a943d2c94" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="e0ed6888-d9b2-83fc-c38f-d2efa134c3e8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_12" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6ec3a554-5d04-4418-b6df-0ecaffa7ad5f" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_I_Astarion_Scar_EL_2" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="3011920d-23a4-e979-0cbc-1e58d53c49a6" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="1f0e32c8-fdb7-ff24-c41f-04ce56f19b18" />
       </fields>
     </stat_object>
   </stat_objects>

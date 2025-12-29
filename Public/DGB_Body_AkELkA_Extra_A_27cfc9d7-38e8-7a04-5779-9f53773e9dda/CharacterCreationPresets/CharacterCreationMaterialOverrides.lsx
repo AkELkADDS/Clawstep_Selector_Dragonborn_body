@@ -100,7 +100,7 @@
                     <attribute id="MaterialType" type="FixedString" value="Passive"/>
                     <attribute id="Name" type="FixedString" value="DGB_F_NKD_Body_H_3Talons_EL_2_Tattoo_KAD"/>
                     <attribute id="SourceMaterialUUID" type="FixedString" value="8a3e54c2-6a75-3eec-5f84-a653239e4f85"/>
-                    <attribute id="TargetMaterialUUID" type="FixedString" value="c8c4edb0-60ca-db66-bbe3-c03526a1cee5"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="4b1d4824-dabb-463e-78a8-04b0dbbf29ed"/>
                     <attribute id="UUID" type="guid" value="0a814b0a-f810-4bc8-a067-1d78a03b0e55"/>
                 </node>
                 <node id="CharacterCreationMaterialOverride">
@@ -111,6 +111,24 @@
                     <attribute id="SourceMaterialUUID" type="FixedString" value="8f8c2b80-b244-de4f-1288-5b7ce2020a5c"/>
                     <attribute id="TargetMaterialUUID" type="FixedString" value="74e182b6-5db8-dec8-a3f2-e114feb748ae"/>
                     <attribute id="UUID" type="guid" value="d1a6439a-35bc-42d6-84c3-7524260a513f"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_F_NKD_Body_I_Astarion_Scar_EL_2"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="b6772dd5-9c72-2a92-d9d9-6c4a943d2c94"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="e0ed6888-d9b2-83fc-c38f-d2efa134c3e8"/>
+                    <attribute id="UUID" type="guid" value="6b771132-8726-4166-8f52-67af6d58de96"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_I_Astarion_Scar_EL_2"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="3011920d-23a4-e979-0cbc-1e58d53c49a6"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="1f0e32c8-fdb7-ff24-c41f-04ce56f19b18"/>
+                    <attribute id="UUID" type="guid" value="6ec3a554-5d04-4418-b6df-0ecaffa7ad5f"/>
                 </node>
             </children>
         </node>
