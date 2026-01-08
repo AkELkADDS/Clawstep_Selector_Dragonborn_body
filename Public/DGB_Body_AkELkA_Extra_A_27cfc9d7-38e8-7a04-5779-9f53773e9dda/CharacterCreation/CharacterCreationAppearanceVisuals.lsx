@@ -3272,6 +3272,16 @@
                     <attribute id="UUID" type="guid" value="3e56d0f3-4b16-42e9-ad9d-fc28a5312b3f"/>
                     <attribute id="VisualResource" type="guid" value="66c3c2b1-fc52-41c2-be37-5d67e3657ce6"/>
                 </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h33d4ad09g2a44gdbeagb56fg05f83a827a0b" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Spine_Decor_Metal_KAD"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="1fda92b4-315e-4df0-a111-78193a375c0b"/>
+                    <attribute id="VisualResource" type="guid" value="08784c76-6cc1-4c22-b45d-d336d4228e7d"/>
+                </node>
             </children>
         </node>
     </region>
